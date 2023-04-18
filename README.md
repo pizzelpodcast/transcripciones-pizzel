@@ -15,3 +15,4 @@ Podés colaborar con correcciones creando un pull request.
 * [Ep. 94 - Sometidos por Bing](/pizzel-ep94.srt) (en corrección)
 * [Ep. 93 - No da Musk](/pizzel-ep93.srt) (crudo)
 * [Ep. 92 - El mundial y tener un hijo es lo mismo](/pizzel-ep92.srt) (crudo)
+* [Ep. 91 - A Xuxa la crionizaron](/pizzel-ep91.srt) (crudo)
