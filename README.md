@@ -19,3 +19,4 @@ Podés colaborar con correcciones creando un pull request.
 * [Ep. 90 - AskPizzel #8 + Julie Fayolle](/pizzel-ep90.srt) (crudo)
 * [Ep. 89 - Manifiesto Chromunista](/pizzel-ep89.srt) (crudo)
 * [Ep. 88 - Índice de cucharita en Finlandia](/pizzel-ep88.srt) (crudo)
+* [Ep. 87 - El mate en las manos](/pizzel-ep87.srt) (crudo)
