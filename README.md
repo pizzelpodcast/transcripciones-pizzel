@@ -13,3 +13,4 @@ Podés colaborar con correcciones creando un pull request.
 ## Lista de transcripciones
 
 * [Pizzel Ep. 94 - Sometidos por Bing](/pizzel-ep94.srt) (en corrección)
+* [Pizzel Ep. 93 - No da Musk](/pizzel-ep93.srt) (crudo)
