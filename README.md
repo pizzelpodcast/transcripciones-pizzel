@@ -25,3 +25,5 @@ Podés colaborar con correcciones creando un pull request.
 * [Ep. 88 - Índice de cucharita en Finlandia](/pizzel-ep88.srt) (crudo)
 * [Ep. 87 - El mate en las manos](/pizzel-ep87.srt) (crudo)
 * [Ep. 86 - @echo off](/pizzel-ep87.srt) (crudo)
+* Ep. 85 - El No me hagan hablar de Fernet + Romikid (pendiente)
+* [Ep. 84 - C. elegans keloké](/pizzel-ep84.srt) (crudo)
