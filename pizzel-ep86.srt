@@ -1,0 +1,4056 @@
+1
+00:00:00,000 --> 00:00:05,000
+Grabando, grabando. Palmas, palmas, palmas
+
+2
+00:00:05,000 --> 00:00:08,000
+Cuanto eco de mirado
+
+3
+00:00:08,000 --> 00:00:10,000
+Sí también no importa
+
+4
+00:00:10,000 --> 00:00:13,000
+Sobre todo unas palmas de chava mucho leco las palmas
+
+5
+00:00:13,000 --> 00:00:16,000
+Te voy a ponerle el comandito eco of, conoces ese
+
+6
+00:00:16,000 --> 00:00:19,000
+Echo off, te suena algo de programación
+
+7
+00:00:19,000 --> 00:00:23,000
+Salgo de de OS creo pero ¿qué hacía?
+
+8
+00:00:23,000 --> 00:00:28,000
+Creo que desactivaba si haces un comandito .bat
+
+9
+00:00:28,000 --> 00:00:30,000
+Te voy a hacer los .bat
+
+10
+00:00:30,000 --> 00:00:33,000
+Bueno sí sí sí autoexec.bat
+
+11
+00:00:33,000 --> 00:00:34,000
+Claro bueno ¿este?
+
+12
+00:00:34,000 --> 00:00:39,000
+Bat son como script sitos de de OS que corren también en Windows
+
+13
+00:00:39,000 --> 00:00:43,000
+Y si peños eco of creo que va roba eco of
+
+14
+00:00:43,000 --> 00:00:46,000
+Es para que no imprimiese cosas por la terminal
+
+15
+00:00:46,000 --> 00:00:49,000
+Mientras ejecuta es como que se vuelve mudo y en cierta forma
+
+16
+00:00:49,000 --> 00:00:50,000
+Creo que era eso
+
+17
+00:00:50,000 --> 00:00:52,000
+No programé mucho en .bat
+
+18
+00:00:52,000 --> 00:00:54,000
+Tampoco es que se puede programar demasiado
+
+19
+00:00:54,000 --> 00:00:56,000
+¿qué fácil que la tienen los jóvenes?
+
+20
+00:00:56,000 --> 00:00:59,000
+Que nunca tuvieron que usar de OS?
+
+21
+00:00:59,000 --> 00:01:00,000
+Era divertido el de OS
+
+22
+00:01:00,000 --> 00:01:02,000
+Pero igual en la época de OS por ahí
+
+23
+00:01:02,000 --> 00:01:04,000
+Que podría que fácil la tienen los jóvenes
+
+24
+00:01:04,000 --> 00:01:07,000
+Que no tienen que usar no sé cómo doro
+
+25
+00:01:07,000 --> 00:01:08,000
+Papel y lápiz
+
+26
+00:01:08,000 --> 00:01:09,000
+Bueno también
+
+27
+00:01:09,000 --> 00:01:13,000
+Pero estaba viendo otro tema de un documental sobre la Commodore 64
+
+28
+00:01:13,000 --> 00:01:14,000
+Creo
+
+29
+00:01:14,000 --> 00:01:16,000
+Y para cargar un programa de un discat
+
+30
+00:01:16,000 --> 00:01:18,000
+De los tipos de los programas oñanas discat
+
+31
+00:01:18,000 --> 00:01:21,000
+Tenías que tener un comando muy esoterico
+
+32
+00:01:21,000 --> 00:01:22,000
+Tenías que saberte lo de memoria
+
+33
+00:01:22,000 --> 00:01:25,000
+Y imagino que muchos usuarios le irían en el manual
+
+34
+00:01:25,000 --> 00:01:28,000
+Y los que irían pero no sé cuantos entenderían que hace
+
+35
+00:01:28,000 --> 00:01:32,000
+Como un load comillas asterizco comillas
+
+36
+00:01:32,000 --> 00:01:34,000
+Como uno como dos
+
+37
+00:01:34,000 --> 00:01:38,000
+Una cosa así para tipo jugar al principio de párcil
+
+38
+00:01:38,000 --> 00:01:43,000
+O es el episodio 86
+
+39
+00:01:43,000 --> 00:01:44,000
+Correcto
+
+40
+00:01:44,000 --> 00:01:46,000
+Y se me ocurrió o este en honor
+
+41
+00:01:46,000 --> 00:01:49,000
+A la arquitectura X86
+
+42
+00:01:49,000 --> 00:01:50,000
+¿sabes qué es eso?
+
+43
+00:01:50,000 --> 00:01:51,000
+No
+
+44
+00:01:51,000 --> 00:01:54,000
+O sea me lo explicaste ya cuando hablamos de los procesores ARM
+
+45
+00:01:54,000 --> 00:01:56,000
+Vos también vos la recientivo
+
+46
+00:01:56,000 --> 00:01:58,000
+Volviendo a la época de OS
+
+47
+00:01:58,000 --> 00:01:59,000
+Te aclóis de los
+
+48
+00:01:59,000 --> 00:02:00,000
+Las 286
+
+49
+00:02:00,000 --> 00:02:01,000
+Las 386
+
+50
+00:02:01,000 --> 00:02:02,000
+Sí
+
+51
+00:02:02,000 --> 00:02:03,000
+Sí, sí, sí
+
+52
+00:02:03,000 --> 00:02:05,000
+Que son como los aguelos
+
+53
+00:02:05,000 --> 00:02:07,000
+De los procesadores de intel actuales
+
+54
+00:02:07,000 --> 00:02:10,000
+La línea de procesadores original de intel
+
+55
+00:02:10,000 --> 00:02:12,000
+Que creo que el primero se llamaba 886
+
+56
+00:02:12,000 --> 00:02:14,000
+Y todos esos que eran 286
+
+57
+00:02:14,000 --> 00:02:15,000
+486
+
+58
+00:02:15,000 --> 00:02:16,000
+486
+
+59
+00:02:16,000 --> 00:02:17,000
+En realidad se llama tipo
+
+60
+00:02:17,000 --> 00:02:18,000
+886
+
+61
+00:02:18,000 --> 00:02:20,000
+Y no sé por qué el 80 se omitía
+
+62
+00:02:20,000 --> 00:02:22,000
+Y todas las pc
+
+63
+00:02:22,000 --> 00:02:24,000
+Intel de hoy en día
+
+64
+00:02:24,000 --> 00:02:25,000
+Son ciertas formas
+
+65
+00:02:25,000 --> 00:02:27,000
+Derivados del 386
+
+66
+00:02:27,000 --> 00:02:29,000
+Y como todas esas familias
+
+67
+00:02:29,000 --> 00:02:31,000
+Cuando querés referir a toda la familia entera
+
+68
+00:02:31,000 --> 00:02:33,000
+En general sabravia X86
+
+69
+00:02:33,000 --> 00:02:34,000
+Tipo la X significando
+
+70
+00:02:34,000 --> 00:02:35,000
+A
+
+71
+00:02:35,000 --> 00:02:36,000
+Cualquier cosa no
+
+72
+00:02:36,000 --> 00:02:37,000
+Ok
+
+73
+00:02:37,000 --> 00:02:38,000
+Bueno pero como estamos
+
+74
+00:02:38,000 --> 00:02:40,000
+En el episodio 86 podemos dedicarle
+
+75
+00:02:40,000 --> 00:02:41,000
+Las X
+
+76
+00:02:41,000 --> 00:02:42,000
+Y 5
+
+77
+00:02:42,000 --> 00:02:43,000
+Y 6 y 7 son
+
+78
+00:02:43,000 --> 00:02:45,000
+Con arquitectura X86
+
+79
+00:02:45,000 --> 00:02:46,000
+Claro
+
+80
+00:02:46,000 --> 00:02:47,000
+Pero es como que en algún momento
+
+81
+00:02:47,000 --> 00:02:48,000
+Intel dijo che bueno
+
+82
+00:02:48,000 --> 00:02:49,000
+Eso por lo menos un poco más marketing
+
+83
+00:02:49,000 --> 00:02:50,000
+Y no
+
+84
+00:02:50,000 --> 00:02:51,000
+Viste empezaron con las Pentium
+
+85
+00:02:51,000 --> 00:02:52,000
+Sí
+
+86
+00:02:52,000 --> 00:02:53,000
+Pentium era 586
+
+87
+00:02:53,000 --> 00:02:54,000
+Básicamente
+
+88
+00:02:54,000 --> 00:02:55,000
+Sí
+
+89
+00:02:55,000 --> 00:02:57,000
+Y la arquitectura no sé si
+
+90
+00:02:57,000 --> 00:02:59,000
+De las últimas no sé si sigue siendo
+
+91
+00:02:59,000 --> 00:03:01,000
+Tipo temiento si te digo que es 5
+
+92
+00:03:01,000 --> 00:03:02,000
+O 686 o lo que sea
+
+93
+00:03:02,000 --> 00:03:03,000
+O sea la verdad que no sé
+
+94
+00:03:03,000 --> 00:03:05,000
+Que nombre técnico tiene
+
+95
+00:03:05,000 --> 00:03:07,000
+Pero ahora te lo cultan
+
+96
+00:03:07,000 --> 00:03:08,000
+Tu una conspiración
+
+97
+00:03:08,000 --> 00:03:09,000
+Me mata
+
+98
+00:03:09,000 --> 00:03:10,000
+Tampoco
+
+99
+00:03:10,000 --> 00:03:12,000
+Que no me quiero ir por las ramas
+
+100
+00:03:12,000 --> 00:03:14,000
+Pero siendo que yo no soy
+
+101
+00:03:14,000 --> 00:03:16,000
+Tipo del ruro de las computadoras
+
+102
+00:03:16,000 --> 00:03:18,000
+Es muy común que amigos y parientes
+
+103
+00:03:18,000 --> 00:03:19,000
+Como se están apunto
+
+104
+00:03:19,000 --> 00:03:20,000
+Y comprar una computadora me
+
+105
+00:03:20,000 --> 00:03:21,000
+Escriben a mí
+
+106
+00:03:21,000 --> 00:03:22,000
+Para consejos
+
+107
+00:03:22,000 --> 00:03:24,000
+Tipo che te parece que esta computora
+
+108
+00:03:24,000 --> 00:03:25,000
+Está bien para
+
+109
+00:03:25,000 --> 00:03:26,000
+X uso
+
+110
+00:03:26,000 --> 00:03:27,000
+Editar video hacer música
+
+111
+00:03:27,000 --> 00:03:28,000
+Yo creo que
+
+112
+00:03:28,000 --> 00:03:29,000
+Tocas de oído no?
+
+113
+00:03:29,000 --> 00:03:30,000
+Un poco
+
+114
+00:03:30,000 --> 00:03:31,000
+Sí sí toco de oído
+
+115
+00:03:31,000 --> 00:03:32,000
+Pero ya no es como antes
+
+116
+00:03:32,000 --> 00:03:33,000
+Que es todo tan lineal
+
+117
+00:03:33,000 --> 00:03:35,000
+Que tipo
+
+118
+00:03:35,000 --> 00:03:37,000
+Comparas specs de una máquina y otra
+
+119
+00:03:37,000 --> 00:03:39,000
+Ya es más difícil comparar
+
+120
+00:03:39,000 --> 00:03:41,000
+Tipo que son 16 GB RAM
+
+121
+00:03:41,000 --> 00:03:43,000
+En una Mac M1
+
+122
+00:03:43,000 --> 00:03:45,000
+Versus 16 GB RAM
+
+123
+00:03:45,000 --> 00:03:46,000
+En una
+
+124
+00:03:46,000 --> 00:03:48,000
+Máquina Intel y 5
+
+125
+00:03:48,000 --> 00:03:50,000
+Y hay muchas generaciones de 5
+
+126
+00:03:50,000 --> 00:03:51,000
+Sí
+
+127
+00:03:51,000 --> 00:03:53,000
+Como te explico a ver benchmarks
+
+128
+00:03:53,000 --> 00:03:54,000
+Y es un lío
+
+129
+00:03:54,000 --> 00:03:55,000
+Sí totalmente
+
+130
+00:03:55,000 --> 00:03:56,000
+Es como que la
+
+131
+00:03:56,000 --> 00:03:59,000
+Toda la sabiubría convencional me digo que
+
+132
+00:03:59,000 --> 00:04:01,000
+En algún punto se quiebra
+
+133
+00:04:01,000 --> 00:04:03,000
+En el fondo hay que mirar videos de youtube
+
+134
+00:04:03,000 --> 00:04:05,000
+Y hacer el que el programa va a usar Final Cut
+
+135
+00:04:05,000 --> 00:04:06,000
+Ok
+
+136
+00:04:06,000 --> 00:04:07,000
+Entra youtube y pone Final Cut
+
+137
+00:04:07,000 --> 00:04:09,000
+En esta computadora sustal otra
+
+138
+00:04:09,000 --> 00:04:11,000
+Y fíjate que dice
+
+139
+00:04:11,000 --> 00:04:12,000
+Después de escuchar 30 mil
+
+140
+00:04:12,000 --> 00:04:13,000
+De youtube en chagona hablar
+
+141
+00:04:13,000 --> 00:04:13,000
+Sí
+
+142
+00:04:13,000 --> 00:04:15,000
+Que descarregumiendo
+
+143
+00:04:15,000 --> 00:04:18,000
+Sí a Mac que ves tipo 3 videos y los 3
+
+144
+00:04:18,000 --> 00:04:19,000
+Estáis diciendo
+
+145
+00:04:19,000 --> 00:04:20,000
+Sí
+
+146
+00:04:20,000 --> 00:04:21,000
+Pero es cierto
+
+147
+00:04:21,000 --> 00:04:22,000
+No hay que tener en cuenta cosas como
+
+148
+00:04:22,000 --> 00:04:24,000
+Tal computadora y tal otra tiene el mismo procesor
+
+149
+00:04:24,000 --> 00:04:26,000
+Pero una tiene ventilador y la otra no
+
+150
+00:04:26,000 --> 00:04:27,000
+Sí
+
+151
+00:04:27,000 --> 00:04:28,000
+Tipo la Mac Air contra la Macbook
+
+152
+00:04:28,000 --> 00:04:30,000
+Pero hay unas que son iguales pero una tiene ventilador y la otra no
+
+153
+00:04:30,000 --> 00:04:31,000
+Entonces en algún caso
+
+154
+00:04:31,000 --> 00:04:34,000
+Fringe de exigencia van a dar mejor la que tiene ventilador
+
+155
+00:04:34,000 --> 00:04:35,000
+Claro
+
+156
+00:04:35,000 --> 00:04:36,000
+Y a más ahora los
+
+157
+00:04:36,000 --> 00:04:38,000
+Los disco flash
+
+158
+00:04:38,000 --> 00:04:40,000
+Son cada vez más rápidos entonces muchas cosas que antes necesitaba
+
+159
+00:04:40,000 --> 00:04:41,000
+Así de si RAM para hacer
+
+160
+00:04:41,000 --> 00:04:42,000
+Ahora como que
+
+161
+00:04:42,000 --> 00:04:45,000
+Si estamos sobre ti como nos para ir descargan un poco la RAM
+
+162
+00:04:45,000 --> 00:04:49,000
+Al disco flash y lo recuperan suficientemente rápido para que no te enteres
+
+163
+00:04:49,000 --> 00:04:51,000
+Y por eso creo que las macas
+
+164
+00:04:51,000 --> 00:04:53,000
+Como tienen todo el hardware también integrado
+
+165
+00:04:53,000 --> 00:04:55,000
+En particular es como que
+
+166
+00:04:55,000 --> 00:05:00,000
+Es cierto que si vos mirar las sofartas de Macbook pro y todo eso
+
+167
+00:05:00,000 --> 00:05:04,000
+En general vienen con menos RAM que una PC polenta no
+
+168
+00:05:04,000 --> 00:05:05,000
+Si
+
+169
+00:05:05,000 --> 00:05:05,000
+Vos decís
+
+170
+00:05:05,000 --> 00:05:07,000
+Pero 8 8 sidas de RAM les están poniendo todavía
+
+171
+00:05:07,000 --> 00:05:08,000
+Claro
+
+172
+00:05:08,000 --> 00:05:09,000
+Una Macbook Air
+
+173
+00:05:09,000 --> 00:05:10,000
+Todavía
+
+174
+00:05:10,000 --> 00:05:12,000
+El lo hace es o creo que 8
+
+175
+00:05:12,000 --> 00:05:13,000
+Lo hace es 8 sí
+
+176
+00:05:13,000 --> 00:05:14,000
+Que para
+
+177
+00:05:14,000 --> 00:05:16,000
+Hay muchos celulares que con la 8 sidas de RAM les dispara
+
+178
+00:05:16,000 --> 00:05:17,000
+Es que es corto
+
+179
+00:05:17,000 --> 00:05:18,000
+Es corto
+
+180
+00:05:18,000 --> 00:05:20,000
+Pero de repente funciona muy bien o sea
+
+181
+00:05:20,000 --> 00:05:23,000
+Medio milagrosamente pero es como esa integración que tienen
+
+182
+00:05:23,000 --> 00:05:24,000
+Si
+
+183
+00:05:24,000 --> 00:05:28,000
+Vertical no que puede encontrar el software y el hardware y como funcionan los
+
+184
+00:05:28,000 --> 00:05:29,000
+Componentes entre sí
+
+185
+00:05:29,000 --> 00:05:31,000
+Y les sacan un poco más el juego
+
+186
+00:05:31,000 --> 00:05:33,000
+Nos abrimos un local de computación
+
+187
+00:05:33,000 --> 00:05:34,000
+Claro
+
+188
+00:05:34,000 --> 00:05:35,000
+Pizza
+
+189
+00:05:35,000 --> 00:05:37,000
+Insumos informáticos
+
+190
+00:05:37,000 --> 00:05:40,000
+Hace mucho aquí no entre un negocio de
+
+191
+00:05:40,000 --> 00:05:42,000
+Informática de computación menos en argentina
+
+192
+00:05:42,000 --> 00:05:43,000
+Si es
+
+193
+00:05:43,000 --> 00:05:45,000
+Para años que no estoy allá pero
+
+194
+00:05:45,000 --> 00:05:47,000
+Me acuerdo hasta cierto punto que
+
+195
+00:05:47,000 --> 00:05:49,000
+Si pero me acuerdo de
+
+196
+00:05:49,000 --> 00:05:52,000
+Muchos locales de computación que es como que se van quedando en el tiempo
+
+197
+00:05:52,000 --> 00:05:55,000
+Y de repente y pues año 2015 y todavía venan
+
+198
+00:05:55,000 --> 00:05:57,000
+Tienen tipo de stock
+
+199
+00:05:57,000 --> 00:05:58,000
+Discats
+
+200
+00:05:58,000 --> 00:05:59,000
+Tres o cuatro
+
+201
+00:05:59,000 --> 00:06:00,000
+Como que tienes toca antiguo
+
+202
+00:06:00,000 --> 00:06:02,000
+Y cosas como de un poco del pasado
+
+203
+00:06:02,000 --> 00:06:03,000
+Si
+
+204
+00:06:03,000 --> 00:06:04,000
+No sé es un poco fascinante también porque
+
+205
+00:06:04,000 --> 00:06:06,000
+A veces son medio museos casi pero
+
+206
+00:06:06,000 --> 00:06:08,000
+Cuento de los clientes será gente que entra con una
+
+207
+00:06:08,000 --> 00:06:11,000
+Celular o una computadora y se no me anda el Word
+
+208
+00:06:11,000 --> 00:06:12,000
+Si
+
+209
+00:06:12,000 --> 00:06:14,000
+De pasarles tipo todo el tiempo
+
+210
+00:06:14,000 --> 00:06:16,000
+Si o sea la gente que hace servicios técnicos
+
+211
+00:06:16,000 --> 00:06:17,000
+Y computadoras de ver
+
+212
+00:06:17,000 --> 00:06:18,000
+Ven encontrar cualquier cosa en esa
+
+213
+00:06:18,000 --> 00:06:20,000
+Pero la gente le lleva a la computadora porque no tienen como a
+
+214
+00:06:20,000 --> 00:06:22,000
+Arreglarla y y de repente tienen no sé
+
+215
+00:06:22,000 --> 00:06:24,000
+Toda su pornografía y la afarele
+
+216
+00:06:24,000 --> 00:06:25,000
+A bueno
+
+217
+00:06:25,000 --> 00:06:26,000
+Si es como
+
+218
+00:06:26,000 --> 00:06:29,000
+Si tipo el hijo de Biden
+
+219
+00:06:29,000 --> 00:06:30,000
+No me entero que pasa
+
+220
+00:06:30,000 --> 00:06:33,000
+Hay como una especie de controversia no sé cuento esto es
+
+221
+00:06:33,000 --> 00:06:35,000
+Es cierto no pero que
+
+222
+00:06:35,000 --> 00:06:38,000
+Lleva una laptop a regalar y encontraron
+
+223
+00:06:38,000 --> 00:06:40,000
+Fotos muy comprometedoras
+
+224
+00:06:40,000 --> 00:06:43,000
+Vamos a hacer una búsqueda rápida
+
+225
+00:06:43,000 --> 00:06:45,000
+Hunter Biden laptop controversy
+
+226
+00:06:45,000 --> 00:06:48,000
+Dejamos el link al Wikipedia el que quiere poder leer
+
+227
+00:06:48,000 --> 00:06:49,000
+Acerca a controversia
+
+228
+00:06:49,000 --> 00:06:50,000
+Si
+
+229
+00:06:50,000 --> 00:06:51,000
+Que no sé que parte es cierto
+
+230
+00:06:51,000 --> 00:06:52,000
+Hay que parte
+
+231
+00:06:52,000 --> 00:06:53,000
+Hay un programa
+
+232
+00:06:53,000 --> 00:06:55,000
+Probablemente había mails y no fotos
+
+233
+00:06:55,000 --> 00:06:56,000
+Me es comprometedos o sea que el
+
+234
+00:06:56,000 --> 00:06:59,000
+El técnico es como que sabía quien era y como que fue a revisar
+
+235
+00:06:59,000 --> 00:07:00,000
+A propósito un poco también no
+
+236
+00:07:00,000 --> 00:07:02,000
+Cada la laptop parece que la llevó a la
+
+237
+00:07:02,000 --> 00:07:04,000
+Igual y un un un identificado
+
+238
+00:07:04,000 --> 00:07:06,000
+En 2019 y nadie la fue buscar
+
+239
+00:07:06,000 --> 00:07:07,000
+No sé si la llevó el mismo
+
+240
+00:07:07,000 --> 00:07:09,000
+Y acá en los en los content
+
+241
+00:07:09,000 --> 00:07:10,000
+Dice
+
+242
+00:07:10,000 --> 00:07:11,000
+Ukraine material
+
+243
+00:07:11,000 --> 00:07:13,000
+No sé
+
+244
+00:07:13,000 --> 00:07:15,000
+Había un programa de televisión
+
+245
+00:07:15,000 --> 00:07:17,000
+Porque se llamaba Nathan for you
+
+246
+00:07:17,000 --> 00:07:19,000
+Me copa mucho ese programa el concepto es
+
+247
+00:07:19,000 --> 00:07:20,000
+Es medio
+
+248
+00:07:20,000 --> 00:07:23,000
+Nunca te queda muy claro si has criptiado
+
+249
+00:07:23,000 --> 00:07:26,000
+O no pero te lo pinta como que es medio
+
+250
+00:07:26,000 --> 00:07:27,000
+Reality
+
+251
+00:07:27,000 --> 00:07:28,000
+Los acorreacciones reales de la gente
+
+252
+00:07:28,000 --> 00:07:29,000
+La idea es que
+
+253
+00:07:29,000 --> 00:07:32,000
+Este humorista que se llama Nathan filter
+
+254
+00:07:32,000 --> 00:07:35,000
+Hace un personaje que le ofrece ayuda como
+
+255
+00:07:35,000 --> 00:07:37,000
+Marketing era a empresas que no les está
+
+256
+00:07:37,000 --> 00:07:38,000
+Siendo demasiado bien
+
+257
+00:07:38,000 --> 00:07:39,000
+A negocios
+
+258
+00:07:39,000 --> 00:07:40,000
+Tipo
+
+259
+00:07:40,000 --> 00:07:41,000
+Más que nada negocios pequeños
+
+260
+00:07:41,000 --> 00:07:43,000
+Pero la ayuda que les ofrece siempre es malísima
+
+261
+00:07:43,000 --> 00:07:44,000
+O sea
+
+262
+00:07:44,000 --> 00:07:46,000
+La gracia es la que siempre siempre es ridícula
+
+263
+00:07:46,000 --> 00:07:48,000
+Y había un episodio donde
+
+264
+00:07:48,000 --> 00:07:50,000
+Ella es un negocio de reparación de computadoras
+
+265
+00:07:50,000 --> 00:07:52,000
+Y el tipo de si a bueno la gente
+
+266
+00:07:52,000 --> 00:07:54,000
+Tiene miedo de dejar su computadora
+
+267
+00:07:54,000 --> 00:07:56,000
+Al técnico porque pueden
+
+268
+00:07:56,000 --> 00:07:59,000
+Ver sus fotos comprometedoras
+
+269
+00:07:59,000 --> 00:08:00,000
+Entonces la solución del tipo era
+
+270
+00:08:00,000 --> 00:08:01,000
+Bueno
+
+271
+00:08:01,000 --> 00:08:02,000
+Contratamos
+
+272
+00:08:02,000 --> 00:08:03,000
+Exclusivamente
+
+273
+00:08:03,000 --> 00:08:04,000
+Técnicos
+
+274
+00:08:04,000 --> 00:08:05,000
+Asexuales
+
+275
+00:08:05,000 --> 00:08:06,000
+Y te
+
+276
+00:08:06,000 --> 00:08:08,000
+Firmamos
+
+277
+00:08:08,000 --> 00:08:10,000
+Como que juran que los que todos los técnicos son
+
+278
+00:08:10,000 --> 00:08:11,000
+Asexuales
+
+279
+00:08:11,000 --> 00:08:13,000
+Y que no van a tener interesados en ver tu
+
+280
+00:08:13,000 --> 00:08:14,000
+Foto comprometedoras
+
+281
+00:08:14,000 --> 00:08:16,000
+Todas las ideas se asinan
+
+282
+00:08:16,000 --> 00:08:17,000
+Un poco así de regiculos
+
+283
+00:08:17,000 --> 00:08:19,000
+Muy recomendado ese programa
+
+284
+00:08:19,000 --> 00:08:22,000
+Que porcentaje de la población mundial
+
+285
+00:08:22,000 --> 00:08:23,000
+Será asexual
+
+286
+00:08:23,000 --> 00:08:25,000
+Muy difícil de hacer conseguir técnicos
+
+287
+00:08:25,000 --> 00:08:26,000
+Asexuales
+
+288
+00:08:26,000 --> 00:08:29,000
+Si, además de que andas a ver si
+
+289
+00:08:29,000 --> 00:08:30,000
+Los son realmente también
+
+290
+00:08:30,000 --> 00:08:31,000
+Claro
+
+291
+00:08:31,000 --> 00:08:33,000
+Bueno entonces ¿estas hablando de la arquitectura
+
+292
+00:08:33,000 --> 00:08:34,000
+X86?
+
+293
+00:08:34,000 --> 00:08:35,000
+Si
+
+294
+00:08:35,000 --> 00:08:37,000
+Eso vamos a nerdyar sobre computadoras
+
+295
+00:08:37,000 --> 00:08:41,000
+Vos vas a nerdyar y yo voy a mostrar como soy un ignorante
+
+296
+00:08:41,000 --> 00:08:42,000
+No no no
+
+297
+00:08:42,000 --> 00:08:44,000
+Que voy a aprender
+
+298
+00:08:44,000 --> 00:08:45,000
+No no no no
+
+299
+00:08:45,000 --> 00:08:46,000
+A veces que tiran más postas que yo
+
+300
+00:08:46,000 --> 00:08:47,000
+Incluso en este tema
+
+301
+00:08:47,000 --> 00:08:48,000
+Si, a veces
+
+302
+00:08:48,000 --> 00:08:49,000
+Deje, me lo pago
+
+303
+00:08:49,000 --> 00:08:50,000
+A veces
+
+304
+00:08:50,000 --> 00:08:51,000
+Te da bien
+
+305
+00:08:51,000 --> 00:08:52,000
+Voy a tomar a pesar de que me endira
+
+306
+00:08:52,000 --> 00:08:53,000
+Pero sí
+
+307
+00:08:53,000 --> 00:08:54,000
+Para variar
+
+308
+00:08:54,000 --> 00:08:56,000
+No porque no lo hablan nunca de
+
+309
+00:08:56,000 --> 00:08:57,000
+Nerdyar
+
+310
+00:08:57,000 --> 00:08:59,000
+Algo de lo que todavía no lo hablan
+
+311
+00:08:59,000 --> 00:09:01,000
+Ya sé, no sé si un mes que salió tálidos
+
+312
+00:09:01,000 --> 00:09:04,000
+La inteligencia artificial de OpenAI
+
+313
+00:09:04,000 --> 00:09:08,000
+Segunda versión de su generador de imágenes
+
+314
+00:09:08,000 --> 00:09:10,000
+Que todo el mundo de ahora
+
+315
+00:09:10,000 --> 00:09:12,000
+Ha visto un poco algo
+
+316
+00:09:12,000 --> 00:09:14,000
+Los que están en nuestro discord seguro
+
+317
+00:09:14,000 --> 00:09:16,000
+Si, si, si, si, si, si, a muchos
+
+318
+00:09:16,000 --> 00:09:17,000
+En el discord les vuelo la cabeza
+
+319
+00:09:17,000 --> 00:09:18,000
+A mi incluido
+
+320
+00:09:18,000 --> 00:09:19,000
+Si, si, mi come
+
+321
+00:09:19,000 --> 00:09:21,000
+Brevemente contar lo que es por si alguien que está
+
+322
+00:09:21,000 --> 00:09:23,000
+Cayendo para que ahí estén este momento
+
+323
+00:09:23,000 --> 00:09:23,000
+Vale vale
+
+324
+00:09:23,000 --> 00:09:24,000
+Vale
+
+325
+00:09:24,000 --> 00:09:25,000
+Es una inteligencia artificial
+
+326
+00:09:25,000 --> 00:09:27,000
+Que embase un texto
+
+327
+00:09:27,000 --> 00:09:29,000
+Una descripción de una imagen que vos les escribís
+
+328
+00:09:29,000 --> 00:09:30,000
+De genero una imagen
+
+329
+00:09:30,000 --> 00:09:32,000
+Habría de generar una, una tanda de por ahí
+
+330
+00:09:32,000 --> 00:09:33,000
+10 imágenes
+
+331
+00:09:33,000 --> 00:09:34,000
+Y los resultados son
+
+332
+00:09:34,000 --> 00:09:36,000
+Muchas veces superior o
+
+333
+00:09:36,000 --> 00:09:38,000
+O sea, ¿a esta la nivel de un
+
+334
+00:09:38,000 --> 00:09:39,000
+Fotografía?
+
+335
+00:09:39,000 --> 00:09:40,000
+Son horas de arte
+
+336
+00:09:40,000 --> 00:09:42,000
+Sí, porque puede hacer imágenes
+
+337
+00:09:42,000 --> 00:09:43,000
+Fotorralistas y
+
+338
+00:09:43,000 --> 00:09:44,000
+Muchas veces están a la nivel de una
+
+339
+00:09:44,000 --> 00:09:45,000
+Te te confunden
+
+340
+00:09:45,000 --> 00:09:47,000
+Es como pensar que es una fotografía real
+
+341
+00:09:47,000 --> 00:09:49,000
+O puede hacer arte
+
+342
+00:09:49,000 --> 00:09:51,000
+Y está a la nivel de una artista profesional
+
+343
+00:09:51,000 --> 00:09:53,000
+Y puede hacer cualquier cantidad de estilos
+
+344
+00:09:53,000 --> 00:09:54,000
+Distintos
+
+345
+00:09:54,000 --> 00:09:57,000
+Y, o sea, es la segunda versión de esto
+
+346
+00:09:57,000 --> 00:09:59,000
+Ya estaba Dal y que era
+
+347
+00:09:59,000 --> 00:10:01,000
+Que habrá salido hace un año o dos años
+
+348
+00:10:01,000 --> 00:10:03,000
+Que ya era bastante impresionante, no?
+
+349
+00:10:03,000 --> 00:10:05,000
+Te decía, la demo que habían puesto, no era una demo
+
+350
+00:10:05,000 --> 00:10:07,000
+Los imágenes de ejemplo que habían puesto en
+
+351
+00:10:07,000 --> 00:10:09,000
+El paper que eran tipo
+
+352
+00:10:09,000 --> 00:10:11,000
+Un sofá en forma de
+
+353
+00:10:11,000 --> 00:10:12,000
+De palta y
+
+354
+00:10:12,000 --> 00:10:13,000
+Y te lo creías
+
+355
+00:10:13,000 --> 00:10:15,000
+Son que las imágenes eran de muy
+
+356
+00:10:15,000 --> 00:10:16,000
+Poca resolución
+
+357
+00:10:16,000 --> 00:10:18,000
+Y Dal y dos
+
+358
+00:10:18,000 --> 00:10:20,000
+No solo es más preciso con lo que genera
+
+359
+00:10:20,000 --> 00:10:22,000
+Más realista y más creyble
+
+360
+00:10:22,000 --> 00:10:24,000
+Sino que las imágenes son mucho más grandes
+
+361
+00:10:24,000 --> 00:10:26,000
+Y
+
+362
+00:10:26,000 --> 00:10:28,000
+Medio ironicamente, viste open e ai
+
+363
+00:10:28,000 --> 00:10:29,000
+No sé por qué todavía no se cambie a la nombre
+
+364
+00:10:29,000 --> 00:10:30,000
+Porque eso de open es
+
+365
+00:10:30,000 --> 00:10:31,000
+Ya es mentira
+
+366
+00:10:31,000 --> 00:10:33,000
+Es casi hipócrita que se llaman open ea
+
+367
+00:10:33,000 --> 00:10:35,000
+Pero tienen una
+
+368
+00:10:35,000 --> 00:10:37,000
+Un programa de beta
+
+369
+00:10:37,000 --> 00:10:38,000
+De beta testing
+
+370
+00:10:38,000 --> 00:10:39,000
+Vos te podés anotar
+
+371
+00:10:39,000 --> 00:10:41,000
+Y hay una lista de espera que
+
+372
+00:10:41,000 --> 00:10:42,000
+Debe ser interminable
+
+373
+00:10:42,000 --> 00:10:44,000
+Para jugar con la interesa artificial
+
+374
+00:10:44,000 --> 00:10:45,000
+¿Vos te anotaste?
+
+375
+00:10:45,000 --> 00:10:47,000
+Sí, me anote ya hace varias semanas
+
+376
+00:10:47,000 --> 00:10:48,000
+Y supongo que voy a esperar
+
+377
+00:10:48,000 --> 00:10:49,000
+Meses o años
+
+378
+00:10:49,000 --> 00:10:51,000
+Con los a los gpt3
+
+379
+00:10:51,000 --> 00:10:53,000
+Me anote medio al toque
+
+380
+00:10:53,000 --> 00:10:55,000
+Y tardó como un año en darme
+
+381
+00:10:55,000 --> 00:10:57,000
+Creo que le dan prioridad gente
+
+382
+00:10:57,000 --> 00:10:59,000
+Que tiene cierta influencia
+
+383
+00:10:59,000 --> 00:11:00,000
+En redes sociales
+
+384
+00:11:00,000 --> 00:11:02,000
+Pero además que están en el tema o algo
+
+385
+00:11:02,000 --> 00:11:04,000
+Y yo que subiendo a nadie
+
+386
+00:11:04,000 --> 00:11:05,000
+O sea, vos tenés mucha influencia
+
+387
+00:11:05,000 --> 00:11:06,000
+Pero bueno, no estás en el tema
+
+388
+00:11:06,000 --> 00:11:07,000
+Por eso no es claro
+
+389
+00:11:07,000 --> 00:11:09,000
+Pero si estoy esperando
+
+390
+00:11:09,000 --> 00:11:11,000
+La hora de poder probarlo
+
+391
+00:11:11,000 --> 00:11:13,000
+Pero hay gente que tiene acceso
+
+392
+00:11:13,000 --> 00:11:14,000
+Y están incluso
+
+393
+00:11:14,000 --> 00:11:16,000
+En un par de cuentas de instagram
+
+394
+00:11:16,000 --> 00:11:17,000
+De twitter
+
+395
+00:11:17,000 --> 00:11:19,000
+¿Postean cosas casi todos los días?
+
+396
+00:11:19,000 --> 00:11:21,000
+¿No sé si vos te suscribiste a uno de esos?
+
+397
+00:11:21,000 --> 00:11:23,000
+No, no, no, vítlas que subieron
+
+398
+00:11:23,000 --> 00:11:25,000
+Tipo, en un par de como artículos
+
+399
+00:11:25,000 --> 00:11:27,000
+Que tenían imágenes
+
+400
+00:11:27,000 --> 00:11:29,000
+Pero no se, no sigo en un Instagram
+
+401
+00:11:29,000 --> 00:11:31,000
+Pero son realmente impresionantes
+
+402
+00:11:31,000 --> 00:11:33,000
+O sea, en ningún punto
+
+403
+00:11:33,000 --> 00:11:35,000
+Sospecharía de que hay una computadora
+
+404
+00:11:35,000 --> 00:11:38,000
+Haciendo, o sea, de que no hay su parovisión humana
+
+405
+00:11:38,000 --> 00:11:40,000
+Claro, es...
+
+406
+00:11:40,000 --> 00:11:42,000
+Y que no hay creatividad humana
+
+407
+00:11:42,000 --> 00:11:44,000
+Muchas veces son realmente creativas
+
+408
+00:11:44,000 --> 00:11:46,000
+O sea, digo, no hay creatividad humana
+
+409
+00:11:46,000 --> 00:11:49,000
+Pero los resultados son muy creativos
+
+410
+00:11:49,000 --> 00:11:52,000
+Pero así de impresionante como eso
+
+411
+00:11:52,000 --> 00:11:54,000
+Después de...
+
+412
+00:11:54,000 --> 00:11:56,000
+Hemos de ver esas cuentas de instagram
+
+413
+00:11:56,000 --> 00:11:58,000
+A ver, es que postean más de una vez por día
+
+414
+00:11:58,000 --> 00:12:00,000
+Entonces estoy todos los días viendo
+
+415
+00:12:00,000 --> 00:12:02,000
+Nuevas imágenes de toridos
+
+416
+00:12:02,000 --> 00:12:04,000
+Y ya hasta altura
+
+417
+00:12:04,000 --> 00:12:07,000
+Como que estiste pero como que perdí un poco la novedad
+
+418
+00:12:07,000 --> 00:12:09,000
+Pero es como me atrevo a decir
+
+419
+00:12:09,000 --> 00:12:11,000
+La cosa más impresionante que hizo una computadora hasta ahora
+
+420
+00:12:11,000 --> 00:12:14,000
+Sí
+
+421
+00:12:14,000 --> 00:12:16,000
+Es así, va a ser así, ¿no?
+
+422
+00:12:16,000 --> 00:12:19,000
+Como lo mismo con deepfakes
+
+423
+00:12:19,000 --> 00:12:20,000
+Claro
+
+424
+00:12:20,000 --> 00:12:22,000
+Los primeros deepfakes ya van a atención
+
+425
+00:12:22,000 --> 00:12:24,000
+Y ahora, pa' ya era un punto que la pregunta solamente
+
+426
+00:12:24,000 --> 00:12:26,000
+"¿Che este video es real o no?"
+
+427
+00:12:26,000 --> 00:12:28,000
+Ya no impresiona que puede a que no sea real
+
+428
+00:12:28,000 --> 00:12:32,000
+Sí, perdemos muy rápido la capacidad de asombró en mi pereza
+
+429
+00:12:32,000 --> 00:12:33,000
+Sí
+
+430
+00:12:33,000 --> 00:12:35,000
+¿Qué es eso? Bueno, es...
+
+431
+00:12:35,000 --> 00:12:37,000
+Si estuvieramos sorprendidos sobre la misma cosa
+
+432
+00:12:37,000 --> 00:12:39,000
+Todo el tiempo también sería un poco absurdo pero...
+
+433
+00:12:39,000 --> 00:12:41,000
+Sí, y ya habíamos hablado de esta es pasada que hablamos de Dalí
+
+434
+00:12:41,000 --> 00:12:46,000
+¿Qué implican se va a tener para los trabajos, no es para diseñadores, para ilustradores?
+
+435
+00:12:46,000 --> 00:12:49,000
+Animadores
+
+436
+00:12:49,000 --> 00:12:51,000
+Memes
+
+437
+00:12:51,000 --> 00:12:52,000
+Va a ser una herramienta memes
+
+438
+00:12:52,000 --> 00:12:54,000
+Yo creo que el mayor impacto va a estar ahí
+
+439
+00:12:54,000 --> 00:12:55,000
+En memes
+
+440
+00:12:55,000 --> 00:12:57,000
+En memes, generación de memes
+
+441
+00:12:57,000 --> 00:12:59,000
+En cuanto esto se ha abierto
+
+442
+00:12:59,000 --> 00:13:02,000
+Cuando vaya un sitio, verátuito donde vos
+
+443
+00:13:02,000 --> 00:13:04,000
+Tipo, pueda generar imágenes
+
+444
+00:13:04,000 --> 00:13:05,000
+Libremente
+
+445
+00:13:05,000 --> 00:13:06,000
+Claro pero
+
+446
+00:13:06,000 --> 00:13:09,000
+Si puedes generar una imagen y usarla para el logo de tu empresa
+
+447
+00:13:09,000 --> 00:13:14,000
+Si sin duda, o sea, me leí un par de los blogs de opinion sobre eso
+
+448
+00:13:14,000 --> 00:13:16,000
+Y había un par de tomas interesantes
+
+449
+00:13:16,000 --> 00:13:21,000
+Va a pasar que muchas empresas o mucha gente va a empezar a usar esto
+
+450
+00:13:21,000 --> 00:13:24,000
+Para repasar trabajo que normalmente había un ilustrador de un diseñador
+
+451
+00:13:24,000 --> 00:13:29,000
+Pero básicamente baja el costo acero de generar ilustraciones
+
+452
+00:13:29,000 --> 00:13:34,000
+Ya muchos sitios web de empresas de servicios start-ups nuevas
+
+453
+00:13:34,000 --> 00:13:38,000
+Tienen como este formato de sitio web muy clásico donde lo primero que ves es como una
+
+454
+00:13:38,000 --> 00:13:42,000
+Imagen muy grande con un texto cortito que explica lo que ofrecen
+
+455
+00:13:42,000 --> 00:13:44,000
+Y por ahí hay una ilustración
+
+456
+00:13:44,000 --> 00:13:47,000
+En algún estilo tipo algo muy utilizado
+
+457
+00:13:47,000 --> 00:13:51,000
+Pero como moderno y como que tratando de aludir a lo...
+
+458
+00:13:51,000 --> 00:13:53,000
+Lo copado que somos
+
+459
+00:13:53,000 --> 00:13:56,000
+Pero como que todos se alinean un poco esos estilos de artes...
+
+460
+00:13:56,000 --> 00:13:58,000
+Básicamente de arte corporativo
+
+461
+00:13:58,000 --> 00:13:59,000
+Se suelen alinear
+
+462
+00:13:59,000 --> 00:14:03,000
+Y a la alinearse es como que pierden su originalidad
+
+463
+00:14:03,000 --> 00:14:05,000
+Y pasan a hacer como una...
+
+464
+00:14:05,000 --> 00:14:07,000
+Como lo contrario a darles este cierto prestigio
+
+465
+00:14:07,000 --> 00:14:10,000
+No es como que los hace robaratos
+
+466
+00:14:10,000 --> 00:14:14,000
+Y vos decís que empresas que empiecen a usar dálidos
+
+467
+00:14:14,000 --> 00:14:17,000
+Se van a mojenizar a algún modo de dálidos como súper versátil
+
+468
+00:14:17,000 --> 00:14:19,000
+A ti hace cosas, nada que ver
+
+469
+00:14:19,000 --> 00:14:21,000
+Claro pero el punto es
+
+470
+00:14:21,000 --> 00:14:24,000
+Lo que había lidado sobre esto mismo de estas ilustraciones corporativas
+
+471
+00:14:24,000 --> 00:14:28,000
+Es que antes de este estilo se están usando muchos fotografías
+
+472
+00:14:28,000 --> 00:14:32,000
+Y después apareció un sitio web que se llama ansplash.com
+
+473
+00:14:32,000 --> 00:14:34,000
+Que es tipo stock fotografía
+
+474
+00:14:34,000 --> 00:14:37,000
+Pero el atuito, o sea, la foto ahí son gratuitas
+
+475
+00:14:37,000 --> 00:14:41,000
+Y son de muy buena calidad, de muy buena resolución
+
+476
+00:14:41,000 --> 00:14:45,000
+Entonces lo que pasa es que eso también bajó el costo de usar buena fotografía
+
+477
+00:14:45,000 --> 00:14:48,000
+En tus productos a casi cero
+
+478
+00:14:48,000 --> 00:14:50,000
+Y al bajar tanto el costo
+
+479
+00:14:50,000 --> 00:14:53,000
+Desprestigió la fotografía como en el uso corporativo
+
+480
+00:14:53,000 --> 00:14:57,000
+Eso es lo que hizo que ahora todos pasaron a usar esos estilos de ilustración
+
+481
+00:14:57,000 --> 00:14:59,000
+Que están usando ahora pero que ya están un poco cayendo un poco
+
+482
+00:14:59,000 --> 00:15:02,000
+En ese mismo pozo
+
+483
+00:15:02,000 --> 00:15:05,000
+Pero Pandali de nuevo baja del todo a cero
+
+484
+00:15:05,000 --> 00:15:08,000
+Entonces baja todos los estilos y todas las posibilidades a cero
+
+485
+00:15:08,000 --> 00:15:12,000
+O puede pose decir a dali quiero una foto de esta palabra
+
+486
+00:15:12,000 --> 00:15:18,000
+O sea algo cubista, quiero algo al estilo reembrano
+
+487
+00:15:18,000 --> 00:15:20,000
+O sea la pospero ecea
+
+488
+00:15:20,000 --> 00:15:24,000
+O sea el valor está en el prompt que le das básicamente
+
+489
+00:15:24,000 --> 00:15:26,000
+Y en el elegir de todas las opciones que te da
+
+490
+00:15:26,000 --> 00:15:27,000
+Elegir una copada
+
+491
+00:15:27,000 --> 00:15:29,000
+En la curación está el valor
+
+492
+00:15:29,000 --> 00:15:33,000
+Sí y es muy probable que desplace mucho el trabajo ilustradores
+
+493
+00:15:33,000 --> 00:15:36,000
+Y debajo de un impacto un poco estar bien negativo
+
+494
+00:15:36,000 --> 00:15:40,000
+Digamos en esa gente que se dedica a ilustrar para ponerle pan en la mesa
+
+495
+00:15:40,000 --> 00:15:43,000
+Aunque también leí la opinión que mucha de la gente que va a aprovechar esto
+
+496
+00:15:43,000 --> 00:15:46,000
+Son en sí mismo artistas o ilustradores
+
+497
+00:15:46,000 --> 00:15:50,000
+O sea que la persona que mejor puede hacer curandaría
+
+498
+00:15:50,000 --> 00:15:52,000
+Curandaría se dice
+
+499
+00:15:52,000 --> 00:15:54,000
+Curandaría
+
+500
+00:15:54,000 --> 00:15:56,000
+De arte es un artista entonces
+
+501
+00:15:56,000 --> 00:15:58,000
+Es decir, si
+
+502
+00:15:58,000 --> 00:16:01,000
+Otra cosa que pasa con dali es que no puedes controlar demasiado por el estilo que saca
+
+503
+00:16:01,000 --> 00:16:02,000
+No si vos
+
+504
+00:16:02,000 --> 00:16:05,000
+O sea si le pedí foto realista bueno foto realista es un estilo bien definido
+
+505
+00:16:05,000 --> 00:16:08,000
+Pero después si quieres ilustraciones en cierto estilo
+
+506
+00:16:08,000 --> 00:16:11,000
+Es algo que le pida justo un artista muy conocido
+
+507
+00:16:11,000 --> 00:16:12,000
+Quiero no sé
+
+508
+00:16:12,000 --> 00:16:14,000
+Dibujamos un panda en el estilo bangog
+
+509
+00:16:14,000 --> 00:16:15,000
+Ponerle
+
+510
+00:16:15,000 --> 00:16:19,000
+Pero si vos quieres un estilo que no es ni muy conocido ni foto realista
+
+511
+00:16:19,000 --> 00:16:21,000
+Pero además unificado
+
+512
+00:16:21,000 --> 00:16:24,000
+Porque quieres hacer todo una serie de imágenes o algo así
+
+513
+00:16:24,000 --> 00:16:28,000
+Es como que de un cierta forma lo tienes que hacer la selección a mano igual
+
+514
+00:16:28,000 --> 00:16:32,000
+Claro no repues de un manual de estilo a dali para que respete el estilo en empresa
+
+515
+00:16:32,000 --> 00:16:33,000
+Claro
+
+516
+00:16:33,000 --> 00:16:35,000
+Si también a nivel corporativo
+
+517
+00:16:35,000 --> 00:16:39,000
+Hubo como rebranding de muchas marcas cambiando sus logos
+
+518
+00:16:39,000 --> 00:16:43,000
+Y esto siempre pasa como que a erbie en b saca un nuevo logo
+
+519
+00:16:43,000 --> 00:16:44,000
+Ponerle
+
+520
+00:16:44,000 --> 00:16:46,000
+Y primero es medio criticado
+
+521
+00:16:46,000 --> 00:16:49,000
+Y después todas las marcas empiezan a tener logos que son parecidos a ese
+
+522
+00:16:49,000 --> 00:16:53,000
+Y acá pasó todo se está volviendo medio como redondito
+
+523
+00:16:53,000 --> 00:16:57,000
+Y por ejemplo no sé os de ubicados la de todo
+
+524
+00:16:57,000 --> 00:17:01,000
+El logo de os de no sé no tengo muy presente no
+
+525
+00:17:01,000 --> 00:17:03,000
+A verlo y buscar el nuevo
+
+526
+00:17:03,000 --> 00:17:06,000
+Ah y lo si hay los ahí los estoy viendo los dos
+
+527
+00:17:06,000 --> 00:17:14,000
+Todo se está volviendo así medio redondito y el logo para el nuevo lo veo y me parece medio insulso
+
+528
+00:17:14,000 --> 00:17:18,000
+Pero la gracia es que detrás de eso hay un pitch
+
+529
+00:17:18,000 --> 00:17:21,000
+Que costó millones de pesos o dólares
+
+530
+00:17:21,000 --> 00:17:26,000
+Seguramente y no es hacer el logo es como justificarlo con un documento
+
+531
+00:17:26,000 --> 00:17:31,000
+Una presentación de muchos slides que trae todo una investigación detrás
+
+532
+00:17:31,000 --> 00:17:38,000
+Diciendo que esto esta redondés simboliza el abrazo y la globalización
+
+533
+00:17:38,000 --> 00:17:41,000
+Y que todos somos una comunidad no sé y como
+
+534
+00:17:41,000 --> 00:17:45,000
+Después hacer el logo en sí nada cinco minutos dirigieron tipo
+
+535
+00:17:45,000 --> 00:17:50,000
+Lo hizo el diseñador al día que empezó el proyecto ya lo había hecho
+
+536
+00:17:50,000 --> 00:17:53,000
+Claro después hubo que justificarlo no más
+
+537
+00:17:53,000 --> 00:17:58,000
+Sí que lo o sea el logo es típica la palabra con una tipografía que elegiste
+
+538
+00:17:58,000 --> 00:18:03,000
+De antes la es esto un toque levantada y tiene como un subrallado como en forma de son risita
+
+539
+00:18:03,000 --> 00:18:08,000
+Pero sí y hubo miles de reuniones y pitch
+
+540
+00:18:08,000 --> 00:18:14,000
+Pitch es seguro hace unos años había salido el nuevo lobo del Pepsi
+
+541
+00:18:14,000 --> 00:18:19,000
+Y no sé si había sido que lo filtraron o que pero el documento de diseño
+
+542
+00:18:19,000 --> 00:18:24,000
+Que lo que decidió recién que justifica el nuevo lobo en un chamucho majestuoso
+
+543
+00:18:24,000 --> 00:18:29,000
+De hoy hablaba de como la gravedad como el efecto de la verdad sobre el logo
+
+544
+00:18:29,000 --> 00:18:35,000
+Y cosas que no sé supongo que en unas salas de reuniones suena muy bien pero no tienen mucha sustancia
+
+545
+00:18:35,000 --> 00:18:40,000
+En el fondo pero sí yo creo que en gente que estén en el rubro
+
+546
+00:18:40,000 --> 00:18:44,000
+Que sepan sacar el provecho esto la van a pegar pero gente que
+
+547
+00:18:44,000 --> 00:18:48,000
+Mucha gente por ahí de los ilustradores que no están tan al tanto de
+
+548
+00:18:48,000 --> 00:18:53,000
+Del último tecnología imagino no sé gente que va a quedar resagado un poco
+
+549
+00:18:53,000 --> 00:18:56,000
+El que adopte esta nueva tecnología le va a apuarsar mucho jugo
+
+550
+00:18:56,000 --> 00:19:03,000
+Yo siento eso yo estoy viviendo en carne propia la comoditización de la música
+
+551
+00:19:03,000 --> 00:19:10,000
+Haciendo música para una serie y de repente hay un pitch de alguien que dicen acá
+
+552
+00:19:10,000 --> 00:19:14,000
+En este seno necesitamos tal tipo de vibe dar onda o a veces
+
+553
+00:19:14,000 --> 00:19:19,000
+El pitch puede ser desde muy específico con la refe y todo o hasta el pitch puede ser
+
+554
+00:19:19,000 --> 00:19:25,000
+De acá acá música y porque claro que crees tipo misterio emoción
+
+555
+00:19:25,000 --> 00:19:32,000
+Alegría miedo que no sé cuantirame algo y no te tira nada y por ahí
+
+556
+00:19:32,000 --> 00:19:36,000
+Hago algo que le puse todo el amor del mundo o por ahí hago algo que me llevó
+
+557
+00:19:36,000 --> 00:19:40,000
+Cinco minutos porque me parecía que esto así más o menos iba a funcionar
+
+558
+00:19:40,000 --> 00:19:45,000
+Y no sé a veces el random lo que queda y lo que no queda lo que gusta y no gusta
+
+559
+00:19:45,000 --> 00:19:52,000
+Y a veces es como es un comoditismo es tipo necesitamos acá algo que suene de acá hasta acá
+
+560
+00:19:52,000 --> 00:19:58,000
+Y ese eso lo podría ser una máquina sin ningún problema y ahorrarme tiempo
+
+561
+00:19:58,000 --> 00:20:02,000
+Y no le cambiaría la vida nadie y si tal vez me gustaría tipo por estrolear
+
+562
+00:20:02,000 --> 00:20:06,000
+Tipo escuchando a ver este tipo que una máquina me genere de diez opciones
+
+563
+00:20:06,000 --> 00:20:10,000
+La escucho metora que más me gusta la gusto mismo un poco
+
+564
+00:20:10,000 --> 00:20:16,000
+Probablemente va a aparecer el Beethoven y sí totalmente en algún momento
+
+565
+00:20:16,000 --> 00:20:21,000
+Y porque la música también es como cada vez más importante el ingrediente
+
+566
+00:20:21,000 --> 00:20:26,520
+Textural que el ingrediente melodico como que ya cada vez más raro que vaya a
+
+567
+00:20:26,520 --> 00:20:30,800
+Saber una película y hay algunas melodías que te llevás en el inconsciente
+
+568
+00:20:30,800 --> 00:20:34,500
+Sonando como que está bien hay siempre ingredientes melodicos pero era más
+
+569
+00:20:34,500 --> 00:20:41,800
+Importante antes eso no sé si me si me seis como que hay toda una generación de
+
+570
+00:20:41,800 --> 00:20:46,500
+Películas que si te digo Star Wars me cantas las melodías claro si te digo Indiana
+
+571
+00:20:46,500 --> 00:20:52,000
+Jones de por Sean Williams de esa época bueno ni hablar si te digo Joe's o de
+
+572
+00:20:52,000 --> 00:20:59,000
+Yo se canté de pelis que tenían melodías muy emblemáticas sí y que en las en los
+
+573
+00:20:59,000 --> 00:21:07,500
+Sequels se sigues usando las melodías si por qué eso o sea ahora que lo mencionas no no
+
+574
+00:21:07,500 --> 00:21:11,300
+Se me viene a la mente ninguna película moderna que tenga ese efecto porque pasó
+
+575
+00:21:11,300 --> 00:21:17,200
+De moda y de hecho la música cambió como que antes antes de la computadora y la
+
+576
+00:21:17,200 --> 00:21:20,800
+Tecnología en la música tipo tenías una persona tocando instrumento por
+
+577
+00:21:20,800 --> 00:21:27,400
+Ejemplo y como que tus recursos son ritmo melodía armonía no si después tenés
+
+578
+00:21:27,400 --> 00:21:32,700
+Un orquesta o que y puede generar texturas interesantes sin tener melodías se no
+
+579
+00:21:32,700 --> 00:21:35,900
+Sé cuánto esto va a sonar muy abstracto para un agente pero porque estoy
+
+580
+00:21:35,900 --> 00:21:39,700
+Asumiendo que la gente en diente lo que significa textura que es un poco en vivo
+
+581
+00:21:39,700 --> 00:21:45,100
+Se pero lo mismo tipo cuando tenías Beethoven como que era muy importante las
+
+582
+00:21:45,100 --> 00:21:49,900
+Melodías y había una un ingrediente textural por debajo pero lo característico
+
+583
+00:21:49,900 --> 00:21:54,300
+Se sigue haciendo lo melodico y con el tiempo y cuando empezamos a tener más
+
+584
+00:21:54,300 --> 00:21:58,800
+Elementos tecnológicos para hacer música empezamos a poder hacer texturas muy muy
+
+585
+00:21:58,800 --> 00:22:04,200
+Creativas pero ponen lo pienso como por ahí ahora ahora pensando un poco
+
+586
+00:22:04,200 --> 00:22:09,500
+Mejor una película con música o sea en película moderna con música iconica que
+
+587
+00:22:09,500 --> 00:22:15,100
+Se me ocurre es inception pero creo que o sea no hay una melodía y la música
+
+588
+00:22:15,100 --> 00:22:22,500
+Se es que bocinas son texturas y hay como pequeñas melodías que puedes cantar pero
+
+589
+00:22:22,500 --> 00:22:25,980
+Muchas veces son como muy minimalistas es una palabra que está en la
+
+590
+00:22:25,980 --> 00:22:31,560
+Nueva es una son texturas son patas son cosas minimalistas por ahí hay algún
+
+591
+00:22:31,560 --> 00:22:39,500
+Pequeño giro melodico pero no es tipo para para para para para para para para para
+
+592
+00:22:39,500 --> 00:22:44,940
+Y por toda una cosa súper con desarrollo y digo dentro eso ya no no que si los
+
+593
+00:22:44,940 --> 00:22:48,380
+Si lo hicieran ahora serían autoridos en la
+
+594
+00:22:48,380 --> 00:22:55,260
+Si si no sé ponéle bueno esta esta serie en Netflix como se llama
+
+595
+00:22:55,260 --> 00:23:00,020
+Es a su excesión creo que no si la viste está en Netflix por el no está en
+
+596
+00:23:00,020 --> 00:23:05,860
+Creo que se ha hecho veo me parece puede ser sí perdón y esa serie tiene una
+
+597
+00:23:05,860 --> 00:23:09,780
+Música que la voy a por ahí la voy a poner un segundo que de hecho está la
+
+598
+00:23:09,780 --> 00:23:13,660
+Hermano de maca el calcín actuando muy bien no sé que tiene hermano en esta serie
+
+599
+00:23:13,660 --> 00:23:16,660
+Si nada nadie sabía y por ahí lo viste y no se y no te das cuenta creo que ser
+
+600
+00:23:16,660 --> 00:23:22,980
+Hermano se llama Kiran calcín y si estúiste viendo y excesión sin saber que era no
+
+601
+00:23:22,980 --> 00:23:28,420
+No no no no la vida de la vida me la recomendario me la recomendaron varias veces pero no tengo perdido si vas a dar
+
+602
+00:23:28,420 --> 00:23:35,380
+De repente así de así se parece es muy bueno el chão y el theme de su excesión tiene una
+
+603
+00:23:35,380 --> 00:23:38,820
+Melodía pero que es cortita como mini loop lo pongo un segundo para
+
+604
+00:23:39,100 --> 00:23:53,060
+Dura dos o tres compases es súper característico es como muy melodico es como una
+
+605
+00:23:53,060 --> 00:23:59,700
+Cosa entre tipo barroco y una línea con tipo medio vivo pero estoy tardado un montón en decir
+
+606
+00:23:59,700 --> 00:24:05,780
+Lo que tradicionalmente se consideraba componer era componer melodías y eso ya estaba medio
+
+607
+00:24:05,780 --> 00:24:11,420
+Extinguido ya y componer texturas o sea una computadora puede ser cualquiera las dos cosas igual
+
+608
+00:24:11,420 --> 00:24:17,020
+Claro pero componer melodías es algo que una computadora puede ser hace mucho tiempo porque es algo
+
+609
+00:24:17,020 --> 00:24:21,740
+Que lo puede ser como con con mi y de no o sea con mi y claro con muy poco información no
+
+610
+00:24:21,740 --> 00:24:26,660
+Necesitas entrenar una interincuencia artificial puede decirle regla no de claro puedes tirar te
+
+611
+00:24:26,660 --> 00:24:32,020
+Puede decir de decirme una un string de números claro y eso lo codificamos en un teclado de una
+
+612
+00:24:32,020 --> 00:24:37,260
+Manera y ya composiste una melodía después faltarle valores de duración pero ya no tiene tanto
+
+613
+00:24:37,260 --> 00:24:41,740
+Valor como sería tener una buena melodía y ahí también entraría mucho un juego tipo de la
+
+614
+00:24:41,740 --> 00:24:47,540
+Curadoría de alguien elija las buenas melodías que son las máquinas pero es más tipo que paletas
+
+615
+00:24:47,540 --> 00:24:51,580
+Sonoras y eso es lo que Hansi me es muy bueno haciendo como unas paletas sonoras originales
+
+616
+00:24:51,580 --> 00:24:56,820
+Difícilen onda qué queda por hacerse y Hansi me la dice bueno voy a grabar un órgano en una
+
+617
+00:24:56,820 --> 00:25:03,980
+Catedral inmensa y samplearlo y un chelo y lo voy a modificar de esta manera y hacer cosas que
+
+618
+00:25:03,980 --> 00:25:09,740
+Suelen novedosas y que genera asombros noidos que están acostumbrados a escuchar tantas cosas distintas
+
+619
+00:25:09,740 --> 00:25:15,740
+Que está todo muy cómodo y tizado hoy fui a ver la nueva de Batman y sí te quería preguntar por
+
+620
+00:25:15,740 --> 00:25:21,380
+Eso qué me lo díaste quedaron sonando es curioso porque tiene hay como una como un
+
+621
+00:25:21,380 --> 00:25:27,060
+Yo se ha estado palabra la idmotif pero no sé si es lo que corresponde pero tiene como una o sea
+
+622
+00:25:27,060 --> 00:25:31,740
+La banda zona tiene como una canción una pisa que se repite durante toda la película básicamente
+
+623
+00:25:31,740 --> 00:25:37,140
+Ahí es una donde no desaparece terapente pero está muy muy muy presente y es muy básico son como
+
+624
+00:25:37,140 --> 00:25:46,700
+Cuatro notas que es una cosa así que se repite y se repite toda la película y le da como no sé
+
+625
+00:25:46,700 --> 00:25:51,300
+Si el efecto final es bueno malo pero es como que unifica la película sí pero casi
+
+626
+00:25:51,300 --> 00:25:57,620
+Un punto que se vuelve como como si fuera una cena muy larga claro porque musicalmente no hay mucha
+
+627
+00:25:57,620 --> 00:26:03,820
+Distinción entre las escenas está siempre eso son nada más que suena como muy metronómico y como si
+
+628
+00:26:03,820 --> 00:26:10,140
+Fuera un un reloj de péndulo que está marcando te que va a pasar algo como que está cerca de un momento
+
+629
+00:26:10,140 --> 00:26:15,420
+Con una cosa así le da una atención así pero pero la vez es como que muy el velto aprícola un poco
+
+630
+00:26:15,420 --> 00:26:23,420
+Con ebulos a un poco sí debe ser como en el espíritu de lo de saxxession de Nicolás Brital
+
+631
+00:26:23,420 --> 00:26:29,100
+Nicolás Brital que como esa melodía o sea yo solo vi tipo un episodio medio pero me
+
+632
+00:26:29,100 --> 00:26:36,740
+Da la sensación de que elude a la trama maquíabélica de querer ser el heredero o como esa melodía
+
+633
+00:26:36,740 --> 00:26:45,140
+Es tipo la maldad o la la estrategia maquíabélica entonces cada vez que aparece tipo te da
+
+634
+00:26:45,140 --> 00:26:53,620
+Esa sensación de un el entramado complejo y súper garca sí pero bueno no sé antes tipo tenías
+
+635
+00:26:53,620 --> 00:27:02,340
+Ocho melodías distintas una para cada tipo personaje o mudo como tema de la película claro y se
+
+636
+00:27:02,340 --> 00:27:08,100
+Desarrollaba constar overse es muy notorio porque toda la la trilogía original la música es súper
+
+637
+00:27:08,100 --> 00:27:13,800
+Icónica y todo el mundo recuerdo por no menos dos temas que los puedes siloar así y la última
+
+638
+00:27:13,800 --> 00:27:19,640
+Trilogía si bien la música no me pareció para nada mala te puedo siloar nada de eso o sea no
+
+639
+00:27:19,640 --> 00:27:25,840
+Incluso probablemente diez minutos después de la película no te podría... no tampoco es
+
+640
+00:27:25,840 --> 00:27:31,360
+La gente que veía la trilogía original una sola vez podía después recordar como era la
+
+641
+00:27:31,360 --> 00:27:37,840
+Mar de imperial de toque a mí me pasaba en fines los noventas de ir al cine y irme cantando
+
+642
+00:27:37,840 --> 00:27:43,160
+Alguna melodía que la había escuchado por primera vez pero se decía a ver por ahí no os que
+
+643
+00:27:43,160 --> 00:27:49,160
+Te la repetían y te la desarrollaba ni te quedaba algo sonando ahí puede ser bueno este bueno
+
+644
+00:27:49,160 --> 00:27:53,960
+Estamos hablando de dar la la la la la la la la la episodio especial y compuración
+
+645
+00:27:53,960 --> 00:27:59,640
+Sí sí sí sí básicamente yo quiero saber cuando me da que eres sin trabajo yo porque ya dejamos
+
+646
+00:27:59,640 --> 00:28:05,400
+Constatado que los ilustradores y los teniadores se van a transformar en curadores de Dalí y yo estoy
+
+647
+00:28:05,400 --> 00:28:10,760
+Viendo cuando ese va a ser mi trabajo o si tengo que meter más pilas al yabas cripto mira yo
+
+648
+00:28:10,760 --> 00:28:16,960
+Creo que a vos te veo en el el grupo de gente que que lo vas poder aprovechar bueno pero si yo
+
+649
+00:28:16,960 --> 00:28:25,000
+Fuera un early adopter estaría vendiendo en fts de música hace un año y pico ponerla pero o sea sí si
+
+650
+00:28:25,000 --> 00:28:31,600
+Ponerle que ponerle que tuviras el Dalí de la música y ponerle que yo tuviera acceso a eso
+
+651
+00:28:31,600 --> 00:28:35,680
+Bien alguien me dice bueno usando eso o sea de musicalizarme esta película yo creo que estaría igual
+
+652
+00:28:35,680 --> 00:28:43,320
+De partido que es que si tengo que escribir la música de cero o sea no sé puedo generar no sé mil temas
+
+653
+00:28:43,320 --> 00:28:48,200
+Para usar de fondo y después barque encaja y que no pero si no sé si teniendo esa herramienta estoy
+
+654
+00:28:48,200 --> 00:28:54,720
+Más calificado yo para musicalizar una película o una serie o una persona que se las pasa viendo
+
+655
+00:28:54,720 --> 00:28:59,920
+Tele y tiene algo de odio musical porque por ahí si te viste yo no me vi toda la serie si feliz
+
+656
+00:28:59,920 --> 00:29:09,280
+Que hay en netflix hv o y apple plus tv como que por ahí tipo vale más estar muy ati un muy enganchado
+
+657
+00:29:09,280 --> 00:29:15,000
+Con las modas y lo que funciona hoy en día porque como que cualquiera puede opinar
+
+658
+00:29:15,000 --> 00:29:20,080
+Puedo hacer me veo que si si tienes la capacidad de opinar y tienes esa herramienta ya puedes hacer
+
+659
+00:29:20,080 --> 00:29:25,400
+Bueno el punto es que quiero que quiero ver los quiero ver los memes quiero ver cuando la parte
+
+660
+00:29:25,400 --> 00:29:32,320
+Internet genera mene me me se empieza a sacar luego es curioso que ponenle 10 años atrás pero ahí
+
+661
+00:29:32,320 --> 00:29:37,400
+Está hablando de por ahí a autos auto conducidos ponen le o robots haciendo más cosas en fábrica
+
+662
+00:29:37,400 --> 00:29:43,280
+Se reemplazando de trabajo manual y ese tipo de cosas en ese momento extrapolando te hubieras
+
+663
+00:29:43,280 --> 00:29:47,320
+Imaginado que en 2022 seguro que ya teníamos autos todos los autos y más estar manejando
+
+664
+00:29:47,320 --> 00:29:52,760
+Soros si y mucho trabajo manual y va a estar completamente desplezado y el trabajo que lleva a ser más
+
+665
+00:29:52,760 --> 00:30:01,280
+Resistente al avance de la inteligencia artificial y va a ser el trabajo más intelectual creativo y medio que lo
+
+666
+00:30:01,280 --> 00:30:06,440
+Puesto está pasando siento yo o sea todavía los autos nos se manejan solos o sea todavía no hay
+
+667
+00:30:06,440 --> 00:30:12,320
+Uno que funciona del todo bien y sin embargo el trabajo del artista se está viendo comprometido en
+
+668
+00:30:12,320 --> 00:30:20,160
+Programación también hay hay o sea gpt 3 programa no me va a repasar mañana pero hay hay un plugin para
+
+669
+00:30:20,160 --> 00:30:26,880
+Un paraditóres de texto que se llama co-pilot que usa gpt 3 de fondo para sugerir te código entonces
+
+670
+00:30:26,880 --> 00:30:31,920
+Es como un asistente para el programador claro lo usas no lo provee pero no lo permitido en
+
+671
+00:30:31,920 --> 00:30:40,040
+Tus términos de sí sí totalmente problema pero nunca pensé a probar usarlo seriamente lo provee para
+
+672
+00:30:40,040 --> 00:30:45,000
+Ver qué resultado generaba tipo no sé darle una instrucción instrucción para hacer no sé
+
+673
+00:30:45,000 --> 00:30:50,440
+Hace un juego de pongo que no es algo muy difícil de programar no es muy largo de programar un pongo
+
+674
+00:30:50,440 --> 00:30:57,120
+Y barca resultado generaba y generalmente la tipo se acerca pero la pifio un cacho es que es
+
+675
+00:30:57,120 --> 00:31:02,400
+Cribe código además que está un poco al pedo como que no se está muy muy lejos de reprasar un
+
+676
+00:31:02,400 --> 00:31:07,840
+Programador pero en el caso de ser un asistente donde vos estás escribiendo código y te auto completa con
+
+677
+00:31:07,840 --> 00:31:14,440
+Sugerencias de las cosas que son repetitivas y aburridas de programar ahí sí viene bastante bien
+
+678
+00:31:14,440 --> 00:31:18,000
+Sí claro pero también lo que decía es que pensamos que los trabajos intelectores y artísticos
+
+679
+00:31:18,000 --> 00:31:22,840
+Iban a hacer los últimos enirse y son los que se están viendo comprometidos y encambio repartidores
+
+680
+00:31:22,840 --> 00:31:30,760
+De rap y por 100 se ven claro como pero no por mucho tiempo ayer mi primo que vive en Houston Texas
+
+681
+00:31:30,760 --> 00:31:38,260
+Mando una artículo de algo que ya se ve como en aníbal prototipo te voy a favor de
+
+682
+00:31:38,260 --> 00:31:44,100
+Dar se ve hace mucho tiempo como carritos autónomos que te llevan la comida de un restaurant a tu casa
+
+683
+00:31:44,100 --> 00:31:50,980
+Que es una herida con ruedas por el no pero mi primo me mando esto porque lo vio él en la calle
+
+684
+00:31:50,980 --> 00:31:56,020
+Vio una herida con ruedas pasando por el frente de su casa siendo hacer un delivery
+
+685
+00:31:56,020 --> 00:32:04,300
+Sí aunque eso también eso tiene que pedir con el como el indicato de mochendo eso por un lado por otro lado
+
+686
+00:32:04,300 --> 00:32:10,540
+También es de la gente que se va a fanar la herida entera si lo debo es seguro si acá con el
+
+687
+00:32:10,540 --> 00:32:17,140
+Lo barato que está mano de obra y lo que es importar tecnología tener una herida autónoma que
+
+688
+00:32:17,140 --> 00:32:23,340
+Además se van a fanar es muy costoso pero sí lo en sé que ama creo que ama son tenía un
+
+689
+00:32:23,340 --> 00:32:32,860
+Está haciendo herida y los drones si para repartir sí el paquete si creo que lo cancelaron así
+
+690
+00:32:32,860 --> 00:32:37,820
+Sí supongo que tuvieron problemas técnicos que dije el mundo ya no vale la pena seguir probando
+
+691
+00:32:37,820 --> 00:32:43,980
+Caro hay muchas restricciones para volar drones en distintas son también no si imagínate si tuvieras una
+
+692
+00:32:43,980 --> 00:32:51,720
+Flotilla de drones sobre volando compaquetes es claro si el sumido constante sería un
+
+693
+00:32:51,720 --> 00:32:56,220
+Sí lo fanar real gente que no quiere que se exista va a tener que ser super seguro para que no
+
+694
+00:32:56,220 --> 00:33:02,980
+Esté en tipo cayéndose cosas en el hilo y están lluviendo tipo compras si además que se salga más
+
+695
+00:33:02,980 --> 00:33:10,940
+Como lo bajas con un rifle y matanga se quedas con los bienes de cual tipo sacrificas un drone y
+
+696
+00:33:10,940 --> 00:33:15,420
+Resulta que estaba trayendo papel higiene que gracioso tipo la nueva modalidad de casar
+
+697
+00:33:15,420 --> 00:33:22,140
+Que es que casar pájaros para comer estas casando drones y viendo que toca que sea una playstation
+
+698
+00:33:22,140 --> 00:33:30,480
+Boom latas de atún bueno la cena tenemos la receta de pasta con atún que hacía rami que nos
+
+699
+00:33:30,480 --> 00:33:35,020
+Cuando la otra vez sí sí te quería preguntar si había hecho alguna receta de rami o si te
+
+700
+00:33:35,020 --> 00:33:40,540
+Había inspirado de algún modo si fuiste a un restaurante los que recomendo no pero tengo no fui
+
+701
+00:33:40,540 --> 00:33:46,380
+No hice ninguna de esas cosas compro donde rami pero si tengo una anécdota de un restaurante
+
+702
+00:33:46,380 --> 00:33:51,060
+Que fíjese poco a ver fui a una parrilla argentina que creo que la menciona incluso la
+
+703
+00:33:51,060 --> 00:33:56,620
+Pasada pero nunca había ido en toqueo se llama don gaucho fue cumplir un amigo entonces fuimos a
+
+704
+00:33:56,620 --> 00:34:03,980
+Comer ahí un amigo argentino y la comida muy buena este mi amigo casi el hace cinco años que
+
+705
+00:34:03,980 --> 00:34:12,220
+Vive acá estaba que lloraba de la emoción pues si estos abueren o nos pruebas étanto y con
+
+706
+00:34:12,220 --> 00:34:18,620
+Este moseja no no ya moseja con mi había morcilla que es raro porque acá en japon los cortes y
+
+707
+00:34:18,620 --> 00:34:24,100
+Todos los ingredientes son todos obtenidos de canja por no y a canja por no hay nada que sea
+
+708
+00:34:24,100 --> 00:34:30,540
+Con sangre y la morcilla se como todos saben se se consangre y el moso nos contó un poco como hicieron
+
+709
+00:34:30,540 --> 00:34:36,340
+Para conseguir que no sé qué qué productor le guardara sangre para hacer las morcillas y wow que
+
+710
+00:34:36,340 --> 00:34:42,020
+Estaban bastante llena además todo estaba muy bien y el moso del lugar era muy muy personaje que
+
+711
+00:34:42,020 --> 00:34:50,140
+Es un poco raro el rato no es una es muy pequeño tiene creo que tres mesas nada más eso lo
+
+712
+00:34:50,140 --> 00:34:55,460
+Puede decir con reserva y el moso te da mucha charla que es raro porque acá son son muy rescatados
+
+713
+00:34:55,460 --> 00:35:02,500
+Los jellos mosos este muy reservados es como está tiendo muy bien pero educadamente y se van
+
+714
+00:35:02,500 --> 00:35:08,060
+Y no te molesta ni este era más tirando un estilo argentino que hay mosos que en Argentina
+
+715
+00:35:08,060 --> 00:35:13,660
+Que vienen y te ancharla y son víctimas como entretenedor es también como es la cuenta en japon
+
+716
+00:35:13,660 --> 00:35:18,220
+Pije peirla cuento te la dejan con mi hasta y comerlo hay solo verdad dos modalidades la típica es
+
+717
+00:35:18,220 --> 00:35:24,540
+Que cuando vos peís te ponen un ticket en la mesa y cuando con un pinchecito sí o te lo ponen
+
+718
+00:35:24,540 --> 00:35:30,300
+Tienen como un como si fuera un vacito chiquitito y te lo enrochan la cuenta y te la ponen ahí o es
+
+719
+00:35:30,300 --> 00:35:36,060
+Que te la ponen boca abajo porque como de mal educación mostrarte el supongo que acuían todos
+
+720
+00:35:36,060 --> 00:35:39,740
+Los detalles siempre de forma que no veas el precio en el momento que estás comiendo supongo que igual
+
+721
+00:35:39,740 --> 00:35:44,380
+Vemos no es que te están está fando ni nada pero y cuando te levantas a pagar o sea llevás el
+
+722
+00:35:44,380 --> 00:35:49,820
+Ticket a la caja y pagas y en algunos restaurantes sí te les deje peirla cuenta al final
+
+723
+00:35:49,820 --> 00:35:57,460
+De si es o caí que o negay si más es o caí que es la cuenta no sé cómo era en este lugar en
+
+724
+00:35:57,460 --> 00:36:02,940
+Particular ya no no acuerdo porque preguntadas por la cuenta no porque esto es el moso
+
+725
+00:36:02,940 --> 00:36:09,180
+Interactúa mucho o no o si es súper discreto me hizo pensar en eso que es como distintos códigos en
+
+726
+00:36:09,180 --> 00:36:15,500
+Los distintos países acá en Argentina hasta que no país la cuenta no te atraen y te quedas charlando
+
+727
+00:36:15,500 --> 00:36:21,740
+Sin coras y nadie te viene a decir nada generalmente en Estados Unidos en algún momento apenas después
+
+728
+00:36:21,740 --> 00:36:26,220
+Al ratito que termine a este comer o cuando sea te dejan la cuenta de dicen "whatever you're ready"
+
+729
+00:36:26,220 --> 00:36:35,500
+Claro como ya te dejan al toque acá para ir o sea que es poco como una sara mucha sobre mesa pero si
+
+730
+00:36:35,500 --> 00:36:39,340
+Si es un lugar con reserva no va a venir nada y más entonces no pasa nada no es el no hay un segundo
+
+731
+00:36:39,340 --> 00:36:46,460
+Turno claro me parece que no además la la parrilla en sí es bastante chiquita y tienes que en tu
+
+732
+00:36:46,460 --> 00:36:52,220
+Reserva tienes que decirle ya de entrada que vas a pedir si vas a comer asado en completo o no y no sé
+
+733
+00:36:52,220 --> 00:36:58,100
+Qué porque no sé tiene que preparar pero bueno la cosa es que el tipo este estábamos nosotros y en la
+
+734
+00:36:58,100 --> 00:37:03,100
+Mesa de lado hubi un grupo que de gente grande o sea un grupo grande gente quiero decir de
+
+735
+00:37:03,100 --> 00:37:08,620
+De edades variadas todos oponeses pero de edades variadas había un no sea un poco más
+
+736
+00:37:08,620 --> 00:37:15,740
+Este entrada de edad pero todavía gente juego en el no sé que estaban ahí eran ponernos que ocho
+
+737
+00:37:15,740 --> 00:37:22,420
+Personas y ya hacia el final de la estábamos habíamos hecho muchos sobre mesa y todo y y queríamos pedir la
+
+738
+00:37:22,420 --> 00:37:28,300
+Cuenta y el moso le estaba dando mucho charla esa gente pero mucha charla y entonces este nadie se
+
+739
+00:37:28,300 --> 00:37:35,100
+Estaba enca de risa y y cuando finalmente el tipo se dio cuenta de que se cobió hablando y que
+
+740
+00:37:35,100 --> 00:37:40,220
+Nosotros estamos esperando y no nos trajo la cuenta no pido disculpas y la gente de la mesa de
+
+741
+00:37:40,220 --> 00:37:47,180
+La lado también ellos dijeron a perdón nos cobió vamos hablando y retuvimos el moso claro sí disculpen y
+
+742
+00:37:47,180 --> 00:37:52,620
+No sé una cosa se habló otra y terminamos charlando entre las dos mesas y resulta que la mesa
+
+743
+00:37:52,620 --> 00:37:57,820
+Esa era toda gente que trabajaba en un estudio de animación de anime y es un estudio importante
+
+744
+00:37:57,820 --> 00:38:03,620
+Hacen una anime que ahora es de los más populares que se llama magiro a academia no creo que vos le
+
+745
+00:38:03,620 --> 00:38:08,060
+Conocas pero prolén de muchos de lo que nos escuchan si y a mi amigo tanto a mi amigo como a mi
+
+746
+00:38:08,060 --> 00:38:13,220
+Yo a la no veo tanto anime pero si me inicie por ahí no es me iba la razón por la que estoy en
+
+747
+00:38:13,220 --> 00:38:19,860
+Japonés porque de adolescente veía mucho anime en argentina es anime y en japones anime sí si acá es
+
+748
+00:38:19,860 --> 00:38:25,380
+La pronunciación es más como anime pero en argentina yo siempre le dije anime es curiosa entonces
+
+749
+00:38:25,380 --> 00:38:31,580
+Estamos mi amigo que también está ese de ese palo este wow increíble que ustedes
+
+750
+00:38:31,580 --> 00:38:37,700
+Este justo en este rostro en argentino están gente este estudio y uno de los tipos que estaban ahí
+
+751
+00:38:37,700 --> 00:38:44,400
+Que era el más veterano este nos contó que trabajó en caballeros de sodíaco que es como era cuando
+
+752
+00:38:44,400 --> 00:38:49,980
+Era chico era muy populares anime y era muy fanático cuando estaba en primario no todavía era muy
+
+753
+00:38:49,980 --> 00:38:56,820
+Fanático de ese serie y me me explote un poco la cabeza que siendo una parrilla argentina en Tokio me
+
+754
+00:38:56,820 --> 00:39:02,480
+Encuentro con un tipo que trabajó en lo que quizá fue lo que le dio el puntapi inicial a mi
+
+755
+00:39:02,480 --> 00:39:08,600
+Interés la cultura japonesa sí como de cosas del chavar en el mundo y hemos hablando rato les
+
+756
+00:39:08,600 --> 00:39:14,060
+Conté esto también le dije wow por caballeros de sodíaco y anime es como ese es que inicialmente me
+
+757
+00:39:14,060 --> 00:39:20,460
+Interese en aprender japones y demás y nada nos rimos un buen rato sacamos fotos y grupales y
+
+758
+00:39:20,460 --> 00:39:24,740
+Salimos como como una sonrisa de punta punta mi amigo y yo estamos que no lo podemos crear
+
+759
+00:39:25,740 --> 00:39:32,560
+Tomaste el nombre alguno para obligarlo si de hecho si lo lo obliguíamos a él y creo que sonidista o
+
+760
+00:39:32,560 --> 00:39:40,660
+Se trabajan en algo del sonido de la serie no no sé si hace como se llama dolly folie folie no sé si
+
+761
+00:39:40,660 --> 00:39:47,060
+Hace eso o si sin generos sonido o si músico la verdad que no sé pero algo que va con sonido bueno
+
+762
+00:39:47,060 --> 00:39:53,780
+Esa es mi amigo que no sé creo que es mucho más copada para mí que probablemente lo que suena
+
+763
+00:39:53,780 --> 00:39:59,940
+Contándola pero me imagino que mucha la gente que tiene a fision a japon viene por el lado del anime y
+
+764
+00:39:59,940 --> 00:40:05,140
+De ese mundo así que cualquiera que hubiera estado en tu lugar cualquier argentino que hubiera estado
+
+765
+00:40:05,140 --> 00:40:08,780
+En tu lugar también hubiera flasillado de conocer a alguien que trabajaba en caballeros de sodíaco
+
+766
+00:40:08,780 --> 00:40:16,020
+Claro yo no sé cómo pasé mi infancia y nunca ni vi un episodio de caballeros de sodíaco no sé
+
+767
+00:40:16,020 --> 00:40:22,420
+Por qué si no me llamaba atención o por chance supongo que no es para todo el mundo el anime tampoco es
+
+768
+00:40:22,420 --> 00:40:28,540
+Para todo el mundo y está perfecto power rangers en portugues de ella yo es portugues si porque no estaba en
+
+769
+00:40:28,540 --> 00:40:34,420
+Español estaban en el canal brasileiro pero rangers también es una cosa rara porque es originalmente japonés
+
+770
+00:40:34,420 --> 00:40:40,980
+Pero la serie que se transmitían en Argentina es o sea todas las escenas de combate donde están con los
+
+771
+00:40:40,980 --> 00:40:48,180
+Trajes son escenas de la serie original japonesa muculo la como si llama no sé llamaba rangers tiene
+
+772
+00:40:48,180 --> 00:40:52,180
+Nombre japonés y todas las escenas obviamente las escenas donde no estaban los chicos en el colegio y
+
+773
+00:40:52,180 --> 00:40:58,020
+Demás en un secundario entonces estaba vuelto a filmar de nuevo y es pronto le cambiaban toda la trama también
+
+774
+00:40:58,020 --> 00:41:05,100
+Pero era como un mash up de una serie original japonesa y material nuevo otra cosa que los que están en
+
+775
+00:41:05,100 --> 00:41:11,100
+Nuestro discord están al tanto y por ahí todo el mundo está al tanto es que hay nuevos emojis emojis
+
+776
+00:41:11,100 --> 00:41:20,780
+En como se llama y unico de sis y unico o sea creo que cuando salieron el más popular era el de la cara son
+
+777
+00:41:20,780 --> 00:41:27,620
+Ríentes de arritiéndose y yo como vi mucha gente diciendo aquí el interés este emoji de qué sirve
+
+778
+00:41:27,620 --> 00:41:34,060
+Y por qué salió y al tanto que salió vía todo el mundo usándolo sin parar o sea no sí porque lo
+
+779
+00:41:34,060 --> 00:41:40,500
+Novedoso o porque realmente había una necesidad en qué contexto lo habéis reducido en tipo historias de
+
+780
+00:41:40,500 --> 00:41:48,460
+Instagram pero tipo hace calor o no no tipo una forma random de decir que loco esto estoy quemado
+
+781
+00:41:48,460 --> 00:41:56,620
+Estoy cansado como me quejo pero todo bien algo así lo veo como usando ser de modo medio random
+
+782
+00:41:56,620 --> 00:42:02,140
+Como una manera de poner un smiley pero dandole un toque ha sido al mismo tiempo
+
+783
+00:42:02,140 --> 00:42:08,820
+Hay algunos que realmente no entiendo por qué están hay dos en particular que o sea está el de
+
+784
+00:42:08,820 --> 00:42:14,340
+Las dos manos haciendo un tomate en forma de corazón también se de macri haciendo eso y parece un
+
+785
+00:42:14,340 --> 00:42:20,460
+Parez más un tomate con corazón te quiero con todo mi tomate ese no sentís no entonces para que
+
+786
+00:42:20,460 --> 00:42:24,580
+Existe el manito haciendo corazón es que el tema de abriendo un corazón claro abriendo un corazón
+
+787
+00:42:24,580 --> 00:42:30,060
+Eso es el tema abriendo muchos corazones además claro o sea es curioso como la forma de corazón que
+
+788
+00:42:30,060 --> 00:42:34,220
+Es arbitraria porque no se parece el corazón como el órgano bueno no está bien pero bueno
+
+789
+00:42:34,220 --> 00:42:39,460
+Digamos eso ya está bien metido en la cultura mundial sí pero ahora si lo que es hacer con las manos
+
+790
+00:42:39,460 --> 00:42:44,660
+Hay dos formas de hacerlo el tomate o lo que hacen los coreanos con los dos deditos así nunca había
+
+791
+00:42:44,660 --> 00:42:49,460
+Esto me lo estamos dando pedro por la cámara pero jamás vi otra forma de hacer corazón con las manos
+
+792
+00:42:49,460 --> 00:42:54,620
+Lo está haciendo con una sola mano como chasquiando los dedos exacto sí sí eso es un corazón
+
+793
+00:42:54,620 --> 00:43:00,940
+Eso se parece más al órgano para que lo veo o decir creo que lo popularizaron los artistas de
+
+794
+00:43:00,940 --> 00:43:05,940
+Kpop y el Kpop está tan globalizado ahora que el resto del mundo no empezó a hacer también
+
+795
+00:43:05,940 --> 00:43:11,540
+La primera que veo ese símbolo con los manos para corazón acá lo veo que tanto como si saliza a
+
+796
+00:43:11,540 --> 00:43:15,780
+Pasar por algún lugar vistoso de contra encontrar con chicas tomando fotos y muchas veces se
+
+797
+00:43:15,780 --> 00:43:21,940
+Se simboló como que está un poco reemplazando la vez la becorta sí sí los japoneses con los
+
+798
+00:43:21,940 --> 00:43:27,180
+Japoneses peronistas de japoneses peronistas ahora bueno porque querés la representación con las manos
+
+799
+00:43:27,180 --> 00:43:31,080
+En una pantalla donde puedes hacerle simple original de todas formas es como dar una vuelta
+
+800
+00:43:31,080 --> 00:43:37,120
+Era sí creo que hay varias razones como que si luego con las manos poniendo el símbolo de las manos
+
+801
+00:43:37,120 --> 00:43:42,240
+Se entiende como que yo estoy transmitiendo el amor pero sí te mando un corazón no y te mando
+
+802
+00:43:42,240 --> 00:43:47,360
+El corazón no le estoy haciendo yo como con las manos estipos yo lo estoy haciendo yo te estoy
+
+803
+00:43:47,360 --> 00:43:53,120
+Transmitiendo como lo está bien bueno y después la otra que se me ocurre es que es un poco más
+
+804
+00:43:53,120 --> 00:43:58,960
+Bro es un poquito menos jugado siento que hay una barrera que especialmente los hombres les
+
+805
+00:43:58,960 --> 00:44:05,520
+Pone el escuesta a través de poner un simbolito de corazón y creo que poner el simbolito de las manos
+
+806
+00:44:05,520 --> 00:44:11,800
+Haciendo el corazón estas un paso más alejado no entonces como que si te da un poquito de pudor
+
+807
+00:44:11,800 --> 00:44:17,400
+Poner un corazón poner las manos haciendo corazón te va a costar menos te parece es una buena
+
+808
+00:44:17,400 --> 00:44:21,840
+Justificación es más original porque cada uno está se mojiz nuevo tiene un documento de
+
+809
+00:44:21,840 --> 00:44:27,720
+Tras un pdf que es como el propós alvícela hay que propone un emoción y nuevo y hay un jurado no
+
+810
+00:44:27,720 --> 00:44:32,960
+Sé que decide bueno sí entro no pasó con el de mate cuando lo sí y para cada uno de estos
+
+811
+00:44:32,960 --> 00:44:38,040
+Nuevos emojis puedes ver el pdf original con las justificaciones y suelen entrar muchos detalles en
+
+812
+00:44:38,040 --> 00:44:44,040
+Como que usos culturales ya tiene o porque esperan que tendría uso ese moche en particular y creo que
+
+813
+00:44:44,040 --> 00:44:48,960
+Tu justificación es mejor que lo que decía el pdf original el tomate era bastante escuetto el de
+
+814
+00:44:48,960 --> 00:44:52,920
+Los deditos a lo pusieron también no lo pusieron también y yo entre pensando lo mismo sobre los dos
+
+815
+00:44:52,920 --> 00:44:58,320
+Deditos haciendo el corazón con una sola mano si y en los deditos al menos el documento dice bueno
+
+816
+00:44:58,320 --> 00:45:05,480
+No solo ese corazón también es tipo dinarito claro si frotar los deditos sí esto significa
+
+817
+00:45:05,480 --> 00:45:13,680
+Quiero dinero da dinero o mocha pleta claramente la moche pdf dice este gesto se puede ser en contexto para
+
+818
+00:45:13,680 --> 00:45:21,840
+Indicar dinero lujo un artículo caro o falta dinero o el request to be paid al tenerla al menos
+
+819
+00:45:21,840 --> 00:45:26,280
+Dos dos distintos me parece que está más justificada su existencia si yo siento que las manitos haciendo
+
+820
+00:45:26,280 --> 00:45:31,480
+Corazones es más tipo temando un corazón que mandaron literalmente un corazón los persivos y
+
+821
+00:45:31,480 --> 00:45:37,840
+Va a ser opunto que va a haber una generación entera que ha crecido con estos emojis ya existiendo desde que
+
+822
+00:45:37,840 --> 00:45:43,560
+Tienen memoria y cuando vean alguien haciéndolo en persona a veces a personas está haciendo el emojis y
+
+823
+00:45:43,560 --> 00:45:49,920
+Haciendo el emojis si es interesante la cantidad de corazones que hay aparte no porque yo me acuerdo
+
+824
+00:45:49,920 --> 00:45:54,480
+Cuando recién se empezó a usar emojis y al día de hoy si quiero mandar corazones yo el hijo que corazón
+
+825
+00:45:54,480 --> 00:45:59,200
+Mandar porque tienes el corazón rojo típico después de hacer corazón que es de los nipes
+
+826
+00:45:59,200 --> 00:46:06,840
+Tipo pic diamante trebol corazón y es como un poquito más adulto es un poco menos vulnerable
+
+827
+00:46:06,840 --> 00:46:17,920
+Mandar ese corazón que manda el corazóncito rojo no sé es como que hay una inflación de emocionalidad
+
+828
+00:46:17,920 --> 00:46:25,720
+Alguien del trabajo le crece y gracias le mandas un corazóncito y realmente se depresió el valor del
+
+829
+00:46:25,720 --> 00:46:35,800
+Del corazón entonces a tu pareja que le mandas pero pasa realmente gente por trabajo me manda
+
+830
+00:46:35,800 --> 00:46:40,800
+Tipo la carita rodeada de corazones tipo me mandase la archivo no sé qué dale ahí te lo subí
+
+831
+00:46:40,800 --> 00:46:48,280
+Pum me contestan carita con corazones y ahora te están tirando donde sí es mucho por ahí me están
+
+832
+00:46:48,280 --> 00:46:52,920
+Creendo citario que no me di cuenta esta recién que otros nuevos y tenemos que acá hay una lista que
+
+833
+00:46:52,920 --> 00:46:59,280
+Te perdí siento que notorio sabe muy pocos bueno si esta cara sonriente melting face siento que si
+
+834
+00:46:59,280 --> 00:47:05,520
+Hay unos cuantos nuevos que yo para transmitir lo que transmiten usaba los socitos que el que se
+
+835
+00:47:05,520 --> 00:47:13,440
+Tapa los ojos se tapa la boca viste el gierno y el sino y se son monitos perdón monitos no sé
+
+836
+00:47:13,440 --> 00:47:19,360
+Tipo diferencial animales tenemos la cara con los ojos abierotos que se tapa la boca se
+
+837
+00:47:19,360 --> 00:47:26,440
+Se ese se hace falta yo siento y yo usaba el el bonito para eso la cara que se tapa los ojos pero
+
+838
+00:47:26,440 --> 00:47:34,360
+Está un ojo mira un poquito ese también es muy comunica mucho la cara echa con línea de puntos
+
+839
+00:47:34,360 --> 00:47:41,720
+Esa no sé lo va a usar no se me ocurre un uso la cara con la boca en diagonal no pucre esa ya existía
+
+840
+00:47:41,720 --> 00:47:47,000
+Existía pero no tan diagonal de todos estos creo que es el que más me alegra que haya un
+
+841
+00:47:47,000 --> 00:47:52,520
+Incorporado bolosías con tipo con aski si lo tenía que hacerlo si con aski intensivamente porque
+
+842
+00:47:52,520 --> 00:47:58,200
+Lo que más se le parece en emoji hasta ahora en que más se le parecía dependiendo del sistema
+
+843
+00:47:58,200 --> 00:48:03,280
+Protivo le cambia mucho la expresión algunos tenían como una ceja levantada irá como más y otros
+
+844
+00:48:03,280 --> 00:48:07,280
+No tenían las cejas levantada y pasa mucho eso conoce mochino que vos estás dando no sé
+
+845
+00:48:07,280 --> 00:48:13,840
+Andro y el otro persona de aifo no lo que sea por ahí alguna expresión de una sutil diferencia en el
+
+846
+00:48:13,840 --> 00:48:21,400
+Dibujo pero ya le comego por completo el significado sí y bolso notoriamente similares en al menos
+
+847
+00:48:21,400 --> 00:48:26,360
+Acabo de mandarle por whatsapp a pedro la cara tipo con la muy caedón diagonal original y la
+
+848
+00:48:26,360 --> 00:48:35,320
+Nueva que es una línea bien diagonal efeo parte el nuevo hay un montón de manos nuevas como para
+
+849
+00:48:35,320 --> 00:48:40,400
+Dar la mano pero una mano a la vez la mano hacia la derecha mano hacia la izquierda mano con
+
+850
+00:48:40,400 --> 00:48:49,960
+La palma para arriba si la mano de anca el sam la mano apuntando al espectador si el labio
+
+851
+00:48:49,960 --> 00:48:58,120
+Mordiéndose el labio es como una boca sensual es solo el labio no es una carantela solo es solo la boca
+
+852
+00:48:58,120 --> 00:49:05,680
+Solo una boca se ve un poquito como dientes ahi un par así como de neutralizando género persona con
+
+853
+00:49:05,680 --> 00:49:09,800
+Corona en vez de rey reina persona con corona y ahora está el hombre embarazado
+
+854
+00:49:09,800 --> 00:49:19,520
+Pregnant man pregnant person troll corral frijoles una jarra una jarra o sea alguna es
+
+855
+00:49:19,520 --> 00:49:24,560
+Dijo falta el emoción de una jarra y habría que ver que dice el documento pero si ya este punto
+
+856
+00:49:24,560 --> 00:49:30,120
+Está se numerando todos básicamente sí no sé qué punto termina esto es como que
+
+857
+00:49:30,120 --> 00:49:35,800
+Si en ha creando año año no se mongi sí no sé si van a decir bueno hasta acá llevamos
+
+858
+00:49:35,800 --> 00:49:40,200
+Extremos todos los que podemos necesitar yo ya estoy en el punto en el que escribo el emoción que
+
+859
+00:49:40,200 --> 00:49:46,280
+Quiero y mando lo mando como texto porque me hacía que buscarlo lo mismo los gifs tipo gif
+
+860
+00:49:46,280 --> 00:49:50,720
+De Michael Jackson comiendo pochoglo no lo voy a buscar escribirse ese punto gif claro
+
+861
+00:49:50,720 --> 00:49:56,640
+Está bien si son si se los con el sector mundo de ese hasta la agresión gracias pero si uno se
+
+862
+00:49:56,640 --> 00:50:02,080
+Puede coger un montón de tiempo buscando como el gif apropiado sí no sé cuánto se mojiz ahora
+
+863
+00:50:02,080 --> 00:50:08,800
+En el año 2038 la pregunta no si cuánto se mojiz ahora la pregunta si va a seguir habiendo letras o si
+
+864
+00:50:08,800 --> 00:50:15,680
+Ya todo se va a comunicar con emojis con emojis por conexiones nebronales sí o sea estamos migrando a
+
+865
+00:50:15,680 --> 00:50:22,240
+A canji pero de colores básicamente no sí pero lo que sí sé es que en el año 2038 va a ver a
+
+866
+00:50:22,240 --> 00:50:28,880
+Otro tema vos acordás el white toque y no el del baio de año 2000 sí gente que nació en el 2000 ya
+
+867
+00:50:28,880 --> 00:50:33,720
+Tiene 22 años sí no sé cuánto de esa gente ahora he escuchado sobre eso pero cuando se
+
+868
+00:50:33,720 --> 00:50:39,680
+Acercaba al fin de año el mi noventa y nueve era como el tema de todas los noticieros sí sí hubo
+
+869
+00:50:39,680 --> 00:50:47,440
+Películas o películas al menos hubo una película o hay tuve un poco teníamos miedo de lo que
+
+870
+00:50:47,440 --> 00:50:53,360
+Podía pasar si se va a jodar la computación o si se va a terminar el mundo sí sí era como una gran
+
+871
+00:50:53,360 --> 00:50:58,880
+Interrojante y mucha gente pensando que se va a ir al fin del mundo por eso el final como que no pasó
+
+872
+00:50:58,880 --> 00:51:03,680
+Sin pena ni horaria no no mayor o lo supongo o algunos programadores que tuvieron que dedicarse a
+
+873
+00:51:03,680 --> 00:51:10,920
+Prepararse para eso seguro sí sí y el hecho de que hemos pasado a mayores gracias a estas
+
+874
+00:51:10,920 --> 00:51:15,760
+Agentes que se producen esos últimos meses y semanas porque todo ese es el último momento siempre
+
+875
+00:51:15,760 --> 00:51:21,640
+Ya han pasado varios días y noche sin dormir pero viniendo al fin del mundo va a ser un
+
+876
+00:51:21,640 --> 00:51:28,720
+Problema para que no lo recuerde o ese demasiado joven para saberlo era que muchos sistemas si
+
+877
+00:51:28,720 --> 00:51:35,680
+Representaban este fechas la fechas con sistema decimal que es raro incluso o sea la computadora
+
+878
+00:51:35,680 --> 00:51:40,680
+Realmente se representan en binario pero muchas veces los el el año se estaba representando con solo
+
+879
+00:51:40,680 --> 00:51:45,680
+Dos números o sea como las computadoras se inventaron en el siglo 20 desde que se inventaron hasta el
+
+880
+00:51:45,680 --> 00:51:52,160
+1999 te ha cansado para decir que año era pero al pasar el 2019 pasaba el 0-0 entonces de repente era
+
+881
+00:51:52,160 --> 00:52:00,760
+No sé el año 0 o el año 1900 claro los formularios tipo en papel todo siempre como que el 1 y el 9
+
+882
+00:52:00,760 --> 00:52:05,320
+Ya estaban completados y vos tienes que completar dos digitos para tu nacimiento para cualquier fecha
+
+883
+00:52:05,320 --> 00:52:12,840
+Claro claro y en el año 2038 todavía falta un trecho vamos a tener un problema similar ya
+
+884
+00:52:12,840 --> 00:52:21,840
+Vamos a estar por el episodio tipo 100 sí más o menos el tema es que hay muchas fechas en base
+
+885
+00:52:21,840 --> 00:52:26,800
+De datos y cosas así que se representan de una forma morrera que es cantidad de segundos transcurridos
+
+886
+00:52:26,800 --> 00:52:36,040
+Desde el primero de enero de 1970 al 0-0-0-0-0-0-2 hay muchas fechas en computación que se representan así
+
+887
+00:52:36,040 --> 00:52:41,760
+No es una mal forma de representar una fecha porque tenés precisión hasta el segundo pero solo vale para
+
+888
+00:52:41,760 --> 00:52:48,320
+Fechas a partir de ese momento de 1970 hasta el mayor número que puedas representar con la cantidad de
+
+889
+00:52:48,320 --> 00:52:54,720
+Beats de información que esté usando para representar ese número la cosa que muchos sistemas usan
+
+890
+00:52:54,720 --> 00:53:01,400
+Números de 32 beats que incluye números negativos o sea opon en 32 beats puede representar no sé
+
+891
+00:53:01,400 --> 00:53:06,960
+Cuál es el nombre exacto pero no hasta muchos muchos millones del 0 a mucho mucho millones positivos o
+
+892
+00:53:06,960 --> 00:53:11,720
+Puedes partirlo por la mitad y tener la mitad de esos positivos en la mitad negativos y muchas
+
+893
+00:53:11,720 --> 00:53:19,920
+Veces se usa 32 beats con negativos incluidos para representar esas fechas cuando usas eso el problema que
+
+894
+00:53:19,920 --> 00:53:30,360
+Tenés es que en el año 2038 más específicamente el 19 de enero del 2038 horas tres horas 14 minutos 7
+
+895
+00:53:30,360 --> 00:53:37,120
+Segundos se te van a acabar los números no vas a poder seguir sumando segundos y lo que va a
+
+896
+00:53:37,120 --> 00:53:46,480
+Pasar es que si le sumas uno se te da vuelta todo y volve a -70 no -70 si no como lo ves a -70 menos
+
+897
+00:53:46,480 --> 00:53:53,760
+O sea es como al otro extremo al punto más negativo que pueda representar con esos beats que es algo
+
+898
+00:53:53,760 --> 00:54:05,520
+Como hay que sacar el 68 a -70 claro a -902 así que todavía falta suficiente tiempo como para
+
+899
+00:54:05,520 --> 00:54:13,400
+Arreglar los sistemas que tengan ese lío sabe algún sistema que esté en 32 beats con esas características
+
+900
+00:54:13,400 --> 00:54:24,400
+Si sé que ya hubo casos de sistemas que usaban eso sistemas que por algún motivo usaban fechas futuras ya tuvieron
+
+901
+00:54:24,400 --> 00:54:32,480
+Ese problema ya se encontraban con ese bug pero en sí no es muy complicado de arreglar en cada caso
+
+902
+00:54:32,480 --> 00:54:38,680
+Puntual el problema cuánto sistema tiene que tiene este mismo problema la cosa es que en vez de 32 beats
+
+903
+00:54:38,680 --> 00:54:46,440
+Usas es 64 que es el siguiente paso lógico tres este al año 100 mil no tienes hasta lo patías
+
+904
+00:54:46,440 --> 00:54:51,800
+222 mil millones de años el problema creo que el sol se va a actinar antes de que el
+
+905
+00:54:51,800 --> 00:54:59,440
+Un promado que tiene 29 mil millones de años sí como para seguir haciendo el episodio que se trata
+
+906
+00:54:59,440 --> 00:55:05,040
+De cosas que ya se hablaron el discord que alguien subió esta este procesador que alguien alguien armó
+
+907
+00:55:05,040 --> 00:55:12,960
+Dentro de Minecraft un procesador de 8 beats algo sino sí es muy es muy salvado como usando
+
+908
+00:55:12,960 --> 00:55:17,840
+Elementos dentro del Minecraft pudo ser una computadora que funciona y que puede jugar jueitos en
+
+909
+00:55:17,840 --> 00:55:25,480
+Esa computadora no sí tenía como un tetris y más sí es muy loco porque ves o sea en Minecraft
+
+910
+00:55:25,480 --> 00:55:32,440
+Es el procesador como una estructura gigantesca de bloqueos de Minecraft haciendo su trabajo
+
+911
+00:55:32,440 --> 00:55:38,400
+Y que tienen lógica funcionan funcionan que lo probablemente no muy rápido pero es algo que
+
+912
+00:55:38,400 --> 00:55:45,720
+También hay un concepto como en la en la teoría de la computación que se llama que algo sea
+
+913
+00:55:45,720 --> 00:55:55,360
+Turin completo Turin viene de Alan Turin que es en matemático inglés que tuvo una vida bastante
+
+914
+00:55:55,360 --> 00:56:02,800
+Trágica pero que es ampliamente considerado el padre de la computación hay una película que
+
+915
+00:56:02,800 --> 00:56:10,720
+Se lleva hace unos años que se llama de imitation game que sobre los años de Alan Turin durante la guerra
+
+916
+00:56:10,720 --> 00:56:16,160
+Porque el tipo tuvo un rol muy clave en la segunda arromundial crequeando la máquina enigma
+
+917
+00:56:16,160 --> 00:56:25,240
+Vista que están la máquina de la máquina escribir que encriptaba mensajes pero era tecnología clave
+
+918
+00:56:25,240 --> 00:56:30,440
+Para los alemanes porque podían enviar mensajes por radio que los aliados no podían entender no
+
+919
+00:56:30,440 --> 00:56:38,240
+Podían interceptar y Alan Turin la crequeo digamos en un momento con sí o sea los aliados consideran
+
+920
+00:56:38,240 --> 00:56:45,280
+Obtener una de esas máquinas intactas y Alan Turin con otro equipo de matemáticos que
+
+921
+00:56:45,280 --> 00:56:52,720
+El dirigía terminaron inventando una una máquina que en poco tiempo desifraba a Corea el setting
+
+922
+00:56:52,720 --> 00:56:58,160
+Que está usando la máquina en ese momento para poder desifrar cualquier mensaje y así como los
+
+923
+00:56:58,160 --> 00:57:02,800
+Los aliados empezaron a interceptar mensajes de los alemanes incluso alemanes supieran que estaban
+
+924
+00:57:02,800 --> 00:57:08,120
+Siendo interceptados y sacaron mucha ventaja estratégica pero bueno me fui por las ramas este concepto
+
+925
+00:57:08,120 --> 00:57:15,960
+De Turin completo son como las piezas asensiales que necesitas en un sistema para que pueda funcionar
+
+926
+00:57:15,960 --> 00:57:21,840
+Como una computadora sin el maldejo Minecraft el juego mismo es Turin completo porque dentro del juego
+
+927
+00:57:21,840 --> 00:57:27,320
+Puedes diseñar y hacer funcionar una computadora pero no puedes hacer eso mismo en cualquier otro juego
+
+928
+00:57:27,320 --> 00:57:35,720
+Claro tiene que cumplir ciertas condiciones que te permitan diseñar una computadora y hay gente
+
+929
+00:57:35,720 --> 00:57:43,140
+Intentando no sé por ejemplo ha visto el juego Magic de Gathering es de juego de fantasía de
+
+930
+00:57:43,140 --> 00:57:50,400
+Cartas coleccionables alguien demostró que el juego con el kit de cartas adecuado es Turin completo
+
+931
+00:57:50,400 --> 00:57:55,240
+Entonces puede diseñar una computadora con cartas de Magic la ejecución de esa computadora sería
+
+932
+00:57:55,240 --> 00:58:02,040
+Manual sería manual es un juego de hecho la ejecución de esa computadora sería un juego específico de
+
+933
+00:58:02,040 --> 00:58:08,440
+Magic donde hay dos másos enfrentados dos másos específicos y se tienen que dar ciertas condiciones
+
+934
+00:58:08,440 --> 00:58:13,440
+De entrada para que la computadora arranque pero una vez que arranca puedes correr básicamente cualquier
+
+935
+00:58:13,440 --> 00:58:18,200
+Programa lo que está pensando con esto de Minecraft Minecraft corre nativamente dentro de la computadora
+
+936
+00:58:18,200 --> 00:58:22,840
+Del que juega o hay un server que donde está tipo el universo Minecraft para que vos pueda
+
+937
+00:58:22,840 --> 00:58:30,600
+Ser a las creaciones de tus amigos por ejemplo tiene un server porque vos puedes entonces hacer tu
+
+938
+00:58:30,600 --> 00:58:38,480
+Procesador dentro de los servers y tipo minar bitcoin muy lentamente usando los server
+
+939
+00:58:38,480 --> 00:58:44,280
+De Minecraft muy lentamente bueno pero así es lo replicas tu máquina por 8000 millones y si
+
+940
+00:58:44,280 --> 00:58:48,840
+Es muy lento pero es muchas de esas máquinas no te vas a ser rico de esa forma a javier
+
+941
+00:58:48,840 --> 00:58:57,520
+Realmente decir oh record churis era buena la idea si a parte de con el precio bitcoin ahora menos
+
+942
+00:58:57,520 --> 00:59:04,440
+Te cuente que soñé que estaba mirando el precio de bitcoin bajar y bajar y bajar y en mi soño el
+
+943
+00:59:04,440 --> 00:59:08,960
+Precio de bitcoin realmente llegó a 0 y pasó a los números negativos y me escorte y cosa
+
+944
+00:59:08,960 --> 00:59:16,560
+Gracias ya que es un valor negativo de bitcoin te tengo que pagar para el disco tomate mi bitcoin y
+
+945
+00:59:16,560 --> 00:59:25,920
+100 dólares por favor lleváte lo no no yo ni vera hay una biste hay muchos lenguajes de promoción en el
+
+946
+00:59:25,920 --> 00:59:32,640
+Mundo eso es sabido y como categorías de lenguajes hay una categoría en particular que se
+
+947
+00:59:32,640 --> 00:59:38,040
+Llama lenguajes esotéricos que son lenguajes de programación que no tienen ninguna intención de ser
+
+948
+00:59:38,040 --> 00:59:44,640
+Prácticos para uso prácticos sino que hay un ocizo por diversión y no sea a veces son solo
+
+949
+00:59:44,640 --> 00:59:50,880
+Graciosos como hay uno que todas las instrucciones son como gemidos nunca barnícola creo que el
+
+950
+00:59:50,880 --> 00:59:57,240
+Lenguaje se llama una cosa así todas las instrucciones de lenguajes son sonidos así y
+
+951
+00:59:57,240 --> 01:00:02,720
+Trasliterados y cualquier problema que habéis leas de esos de como lo lees y es
+
+952
+01:00:02,720 --> 01:00:08,200
+Hay uno en ese programa fue escrita la página de la fip
+
+953
+01:00:08,200 --> 01:00:19,720
+Hay uno que se llama creo que mal borno una cosa así no me acuerdo no era así pero no importa el
+
+954
+01:00:19,720 --> 01:00:25,720
+Nombre pero es está diseñado para hacer el lenguaje de promoción más difícil de usar del mundo y
+
+955
+01:00:25,720 --> 01:00:31,280
+Está difícil de usar que básicamente nadie puede hacer nada con él o sea está demostrado que
+
+956
+01:00:31,280 --> 01:00:36,960
+Puedes escribir el programa que quieras con ese lenguaje pero es como que las instrucciones no son
+
+957
+01:00:36,960 --> 01:00:41,800
+Directas sino que tener que de una forma como que cada instrucción que escribís cambia el lenguaje
+
+958
+01:00:41,800 --> 01:00:47,400
+Entero y cada una instrucción es como minar vitco y básicamente es como terminar vitco y es como
+
+959
+01:00:47,400 --> 01:00:53,520
+Tienes que encontrar es como una lotería gigantesca que cuesta mucho encontrar es como así pero para
+
+960
+01:00:53,520 --> 01:00:59,720
+Cada instrucción que le das al lenguaje desde que se publicó por primera vez ese lenguaje hasta
+
+961
+01:00:59,720 --> 01:01:04,680
+Que alguien escribió un programa que era un único que hace sin primer por consola hello world
+
+962
+01:01:04,680 --> 01:01:14,480
+Si pasaron años wow y hay otro que se llama brainfuck que se como el nombre lo dice está pensado para
+
+963
+01:01:14,480 --> 01:01:19,720
+También un poco rompartecer pero es un poco más fácil que acabo de contar incluso yo aún
+
+964
+01:01:19,720 --> 01:01:25,240
+Es intenté hacer el agua y pero es un lenguaje que es tan mínimo que solo tiene creo que ocho
+
+965
+01:01:25,240 --> 01:01:31,000
+Instrucciones no tienes ni variables no tienes nada de lo que hace un lenguaje moderno pero es como que
+
+966
+01:01:31,000 --> 01:01:36,680
+Encapsula la esencia de lo que decía antes de una máquina de turing en solo ocho instrucciones
+
+967
+01:01:36,680 --> 01:01:40,240
+Puedes hacer lo que quieras te va a costar un montón pero también está demostrado que puedes hacer
+
+968
+01:01:40,240 --> 01:01:46,080
+Cualquier cosa con ese lenguaje sí porque está demostrado que es turing completo y eso significa
+
+969
+01:01:46,080 --> 01:01:51,880
+Básicamente puedes hacer lo que quieras desde un punto estrictamente matemático claro una vez hablaba
+
+970
+01:01:51,880 --> 01:01:56,360
+Con alguien sobre este concepto de turing completo y me decía pero seguro no puedes hacer un que
+
+971
+01:01:56,360 --> 01:02:02,320
+Reproduja de mp3 y claro o sea depende de cómo veas que es reproducir mp3 porque al fin de cuentas
+
+972
+01:02:02,320 --> 01:02:08,360
+Es generar unas una señal digital que mandas a una placa de sonido generar esa señal digital sí lo
+
+973
+01:02:08,360 --> 01:02:12,880
+Puedes hacer con cualquier lenguaje que sea turing completo ahora enitas después la placa de sonido que te
+
+974
+01:02:12,880 --> 01:02:18,200
+Va a salir a la mp3 por los parlantes claro necesitas poder output esos comandos a cierta velocidad también
+
+975
+01:02:18,200 --> 01:02:24,560
+Para que se pueda escuchar sí ponerle también como comunicarte con la placa cierta velocidad claro pero
+
+976
+01:02:24,560 --> 01:02:28,960
+Eso está por fuera de la definición de turing completo en todo caso claro bueno no sé si es muy
+
+977
+01:02:28,960 --> 01:02:34,800
+Embureto esto que estoy contando para mí muy interesante me estuve enviciando con un deporte peculiar
+
+978
+01:02:34,800 --> 01:02:41,600
+El bit saiver si ese es uno de hecho es bastante más deporte que lo que estaba pensando sí en
+
+979
+01:02:41,600 --> 01:02:46,720
+Ico uno de los chicos que están en el disco se puso la misión de destruir mi mi legado
+
+980
+01:02:46,720 --> 01:02:52,120
+Me estoy listo de tu recorrer de high scores y rompió todo mis recorres en bit saiver mira y ahora
+
+981
+01:02:52,120 --> 01:02:57,880
+La base de mucho sudor estoy tratando de recuperar los de a poco está bueno tener competencia lo hace
+
+982
+01:02:57,880 --> 01:03:03,360
+Mucho más divertido pero el otro que cuando que me envicie este último tiempo es algo que se llama
+
+983
+01:03:03,360 --> 01:03:12,600
+Code golf es o sea golf de código es un deporte para programadores pero a que a veces es como un deporte
+
+984
+01:03:12,600 --> 01:03:18,680
+Muy solitario porque en lo que consiste es o sea te tiran un desafío hacer un programa que por ejemplo
+
+985
+01:03:18,680 --> 01:03:25,280
+Largue la letra de una canción y que es el o lo más corto posible claro el objetivo es exactamente
+
+986
+01:03:25,280 --> 01:03:33,040
+Ese tengo o sea se mide en caracteres en pites y el programa más corto que logra el objetivo obviamente
+
+987
+01:03:33,040 --> 01:03:38,400
+Ganas es algo que me mantiene muy intertenido veces también se vuelve muy frustrante por momentos pero
+
+988
+01:03:38,400 --> 01:03:43,280
+Tiene un problema de que si yo le muestro hay que en mi solución si ese persona también la puedo usar
+
+989
+01:03:43,280 --> 01:03:49,040
+Entonces parte de la esencia del juego es el secretismo claro y se compite de con alguna página
+
+990
+01:03:49,040 --> 01:03:55,680
+Y poni el mundial se avó sabes cuál es el high score actual claro hay más de una creo pero hay una
+
+991
+01:03:55,680 --> 01:04:00,640
+Que por ahí la más popular porque tampoco es que muchísima gente juega esto de hacer claro es un muy
+
+992
+01:04:00,640 --> 01:04:09,160
+Denicho este pero hay una que llama code punto golf entrar ya mismo tanto los challenges y cada challenge
+
+993
+01:04:09,160 --> 01:04:16,000
+Tiene un scoreboard si estás en el líder borde alguno de estos sí pero además cada desafío está
+
+994
+01:04:16,000 --> 01:04:22,080
+Dividido también por lenguaje a promoción a cual hiciste para quien entra la verte bueno algunos que me ha
+
+995
+01:04:22,080 --> 01:04:27,600
+Llegado bien mira pierdo pero dijera yo es en mi curso de llavas crypt lo hice hay uno que se llama
+
+996
+01:04:27,600 --> 01:04:39,440
+Aski tape o si y si vas a ver la tal de puntaje en en ruby estoy en el cuarto puesto que grande y el número
+
+997
+01:04:39,440 --> 01:04:48,040
+88 son los bites claro mi solución es de 88 bites y el puesto número uno está en 77 bites o se tiene 11 menos
+
+998
+01:04:48,040 --> 01:04:53,200
+Que yo y yo como quiero exprimir el mango y no tengo ni idea cómo llegan a ser o sea me muero por
+
+999
+01:04:53,200 --> 01:04:58,880
+Ver la solución del tipo que tiene 77 bites claro y tipo cada espacio cada entero todo todo pesa
+
+1000
+01:04:58,880 --> 01:05:04,600
+Todo claro quiero hacer una invitación a los programadores que nos escuchen si alguien tiene ganas de
+
+1001
+01:05:04,600 --> 01:05:09,840
+Competir aunque el problema de estos que está muy más muy dividido son tanto los lenguajes de
+
+1002
+01:05:09,840 --> 01:05:15,040
+Promoción y cada uno tiene su favorito claro hay gente que participan todos está un otro demuestra que
+
+1003
+01:05:15,040 --> 01:05:21,600
+Lenguaje es teoricamente más concizos no ponerse porque claro en llavas crypt el mismo desafío el ganador
+
+1004
+01:05:21,600 --> 01:05:29,340
+Usó 120 bites en cemas más 130 bites claro que ruyes más económico sí para para este juego en
+
+1005
+01:05:29,340 --> 01:05:34,860
+Particulares bastante más y también está el lenguaje que comenté antes brinfac está acá entre las
+
+1006
+01:05:34,860 --> 01:05:44,220
+Entero ahí está sí sí sí sí muy bueno code punto bols bueno nos pedimos sí espero que haya
+
+1007
+01:05:44,220 --> 01:05:50,620
+Alguien acá todavía escuchando sí entonces por ahí fue excesivamente darodio informático creo que
+
+1008
+01:05:50,620 --> 01:05:56,620
+Fue interesante va a ser un challenge golfístico editar esto y que quede en su versión más conciza pero
+
+1009
+01:05:56,620 --> 01:06:01,500
+Que no se entienda este problema que tenemos de que cuando hablamos de cosas de actualidad hay que
+
+1010
+01:06:01,500 --> 01:06:06,040
+Editar los antes que se vuelan muy vieja la noticia como nos pasó con el lo de la peluza y el episodio de
+
+1011
+01:06:06,040 --> 01:06:13,420
+Roma y si si si acá tenemos hasta el año 2038 para sacar este episodio antes de que el problema
+
+1012
+01:06:13,420 --> 01:06:20,780
+Pase de moda bueno también podemos ir a tranquilos entonces tranquilo sí sí sí que que de bien cortito 88 bites
+
+1013
+01:06:20,780 --> 01:06:22,780
+[Risas]
+
+1014
+01:06:22,780 --> 01:06:24,780
+[Música]
+
