@@ -8,6 +8,10 @@ y corregidas a mano.
 Las transcripciones están en formato
 [SubRip](https://en.wikipedia.org/wiki/SubRip) (`.srt`).
 
+Para correcciones simples (por ejemplo un typo) cualquier editor de texto va
+bien. Para correcciones más avanzadas (como ajustar tiempos) es mejor usar un
+programa de edición de subtítulos como [Aegisub](https://aegisite.vercel.app/).
+
 Podés colaborar con correcciones creando un pull request.
 
 ## Lista de transcripciones
