@@ -17,3 +17,4 @@ Podés colaborar con correcciones creando un pull request.
 * [Ep. 92 - El mundial y tener un hijo es lo mismo](/pizzel-ep92.srt) (crudo)
 * [Ep. 91 - A Xuxa la crionizaron](/pizzel-ep91.srt) (crudo)
 * [Ep. 90 - AskPizzel #8 + Julie Fayolle](/pizzel-ep90.srt) (crudo)
+* [Ep. 89 - Manifiesto Chromunista](/pizzel-ep89.srt) (crudo)
